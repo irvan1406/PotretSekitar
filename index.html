@@ -5,6 +5,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Potret Sekitar — Berita Terbaru Hari Ini</title>
 <link rel="icon" href="logo-potret.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0d1b33">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Potret Sekitar">
+<meta property="og:title" content="Potret Sekitar — Berita Terbaru Hari Ini">
+<meta property="og:description" content="Berita terbaru Banyuwangi dan nasional, ditulis redaksi dengan bahasa yang jelas dan faktual, lengkap dengan gambar di setiap berita.">
+<meta property="og:url" content="https://potretsekitar.my.id/">
+<meta property="og:image" content="https://potretsekitar.my.id/logo-potret.png">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="description" content="Portal berita modern: berita terbaru nasional, ekonomi, peristiwa, hukum, olahraga, cuaca, dan teknologi — ditulis redaksi dengan bahasa yang jelas dan faktual, lengkap dengan gambar di setiap berita.">
 <style>
 :root{
@@ -123,6 +133,21 @@ main{max-width:1180px;margin:0 auto;padding:1.2rem 1rem 2.5rem}
 #iklanAtas:empty{display:none}
 #iklanSidebar:empty{display:none}
 
+/* ===== Bagikan & info harian & rubrik ===== */
+.bagikan{display:flex;gap:.5rem;flex-wrap:wrap;align-items:center;margin-top:1.6rem;padding-top:1.1rem;border-top:1px solid var(--line)}
+.bagikan span{font-weight:700;color:var(--navy);font-size:.92rem;margin-right:.2rem}
+.btn-share{display:inline-flex;align-items:center;border-radius:999px;padding:.5rem 1rem;font-size:.88rem;font-weight:700;color:#fff;border:none}
+.btn-share.wa{background:#1faa55}.btn-share.wa:hover{background:#178a44}
+.btn-share.tg{background:#229ed6}.btn-share.tg:hover{background:#1b86b5}
+.btn-share.fb{background:#1877f2}.btn-share.fb:hover{background:#0f66d6}
+.btn-share.salin{background:var(--navy)}.btn-share.salin:hover{background:var(--navy2)}
+.info-hari .baris{display:flex;justify-content:space-between;gap:.6rem;padding:.32rem 0;border-bottom:1px dashed var(--line);font-size:.9rem}
+.info-hari .baris:last-child{border-bottom:none}
+.info-hari .baris b{color:var(--navy)}
+.info-hari .cuaca-utama{font-size:1.02rem;color:var(--navy);font-weight:700;padding:.15rem 0 .35rem}
+.rubrik-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1rem}
+@media(max-width:860px){.rubrik-grid{grid-template-columns:1fr}}
+
 footer{background:var(--navy);color:#c7d2e4;margin-top:2rem}
 .foot-in{max-width:1180px;margin:0 auto;padding:1.6rem 1rem;font-size:.88rem}
 .foot-in b{color:#fff}
@@ -182,6 +207,7 @@ footer{background:var(--navy);color:#c7d2e4;margin-top:2rem}
       <div class="grid" id="gridBerita"></div>
     </section>
     <aside>
+      <div class="side info-hari"><h4>Info Hari Ini — Banyuwangi</h4><div id="infoHariIni"><p class="meta">Memuat cuaca dan jadwal sholat…</p></div></div>
       <div class="side"><h4>Terbaru</h4><div id="sideTerbaru"></div></div>
       <div class="side"><h4>Terpopuler</h4><div id="sidePopuler"></div></div>
       <div id="iklanSidebar"></div>
@@ -191,6 +217,7 @@ footer{background:var(--navy);color:#c7d2e4;margin-top:2rem}
       </div>
     </aside>
   </div>
+  <section id="rubrikWrap" style="margin-top:1.8rem"></section>
  </div>
 
  <!-- ===== HALAMAN ARTIKEL (tampilan penuh) ===== -->
@@ -228,7 +255,7 @@ function daftarAktif(){
   pub.sort(function(a,b){return String(b.tanggal||"").localeCompare(String(a.tanggal||""));});
   return pub;
 }
-function renderSemua(){renderNav();renderTicker();renderIklanAtas();renderHero();renderGrid();renderSide();}
+function renderSemua(){renderNav();renderTicker();renderIklanAtas();renderHero();renderGrid();renderSide();renderRubrik();}
 function muat(){
   fetch("berita.json?ts="+Date.now()).then(function(r){
     if(!r.ok)throw new Error("HTTP "+r.status);
@@ -269,7 +296,8 @@ function lolosFilter(b){
   if(kategoriAktif!=="Semua"&&b.kategori!==kategoriAktif)return false;
   if(kataCari){
     var q=kataCari.toLowerCase();
-    var h=(b.judul+" "+(b.ringkasan||"")+" "+(b.kategori||"")).toLowerCase();
+    var isiTeks=Array.isArray(b.isi)?b.isi.join(" "):String(b.isi||"");
+    var h=(b.judul+" "+(b.ringkasan||"")+" "+(b.kategori||"")+" "+isiTeks).toLowerCase();
     if(h.indexOf(q)<0)return false;
   }
   return true;
@@ -342,11 +370,94 @@ function renderArtikel(b){
     (b.gambar?'<img class="sampul" src="'+esc(b.gambar)+'" alt="'+esc(b.judul)+'">':"")+
     (b.gambar_keterangan?'<div class="keterangan">'+esc(b.gambar_keterangan)+"</div>":"")+
     '<div class="isi">'+isiDenganIklan(paras)+"</div>"+
+    blokBagikan(b)+
     '<button class="btn btn-kembali btn-kembali-bawah" type="button" data-kembali>&larr; Kembali ke daftar berita</button>';
   Array.prototype.forEach.call(el("viewArtikel").querySelectorAll("[data-kembali]"),function(n){
     n.addEventListener("click",function(){location.hash="";});
   });
+  var tombolSalin=el("btnSalinTautan");
+  if(tombolSalin)tombolSalin.addEventListener("click",function(){
+    var tautan=location.origin+location.pathname+"#baca/"+encodeURIComponent(b.id);
+    function selesai(){tombolSalin.textContent="Tautan Tersalin";setTimeout(function(){tombolSalin.textContent="Salin Tautan";},2200);}
+    if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(tautan).then(selesai).catch(selesai);}
+    else{var ta=document.createElement("textarea");ta.value=tautan;document.body.appendChild(ta);ta.select();try{document.execCommand("copy");}catch(e){}document.body.removeChild(ta);selesai();}
+  });
 }
+/* ---------- bagikan ---------- */
+function blokBagikan(b){
+  var tautan=location.origin+location.pathname+"#baca/"+encodeURIComponent(b.id);
+  var teks=encodeURIComponent(b.judul+" — baca di Potret Sekitar: "+tautan);
+  var u=encodeURIComponent(tautan);
+  var j=encodeURIComponent(b.judul);
+  return '<div class="bagikan"><span>Bagikan:</span>'+
+    '<a class="btn-share wa" target="_blank" rel="noopener" href="https://wa.me/?text='+teks+'">WhatsApp</a>'+
+    '<a class="btn-share tg" target="_blank" rel="noopener" href="https://t.me/share/url?url='+u+"&text="+j+'">Telegram</a>'+
+    '<a class="btn-share fb" target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u='+u+'">Facebook</a>'+
+    '<button class="btn-share salin" type="button" id="btnSalinTautan">Salin Tautan</button></div>';
+}
+
+/* ---------- rubrik Wisata & Budaya ---------- */
+function renderRubrik(){
+  var wrap=el("rubrikWrap");if(!wrap)return;
+  if(kategoriAktif!=="Semua"||kataCari){wrap.innerHTML="";return;}
+  var items=daftarAktif().filter(function(b){return b.kategori==="Wisata"||b.kategori==="Budaya";}).slice(0,4);
+  if(items.length<2){wrap.innerHTML="";return;}
+  wrap.innerHTML='<h2 class="sec-title">Wisata &amp; Budaya Banyuwangi</h2><div class="rubrik-grid">'+
+    items.map(function(b){
+      return '<article class="card" data-baca="'+esc(b.id)+'">'+(b.gambar?'<img src="'+esc(b.gambar)+'" alt="'+esc(b.judul)+'" loading="lazy">':"")+
+      '<div class="card-body"><span class="chip navy" style="align-self:flex-start">'+esc(b.kategori)+"</span>"+
+      "<h3>"+esc(b.judul)+"</h3><p>"+esc(b.ringkasan||"")+"</p>"+kartuMeta(b)+"</div></article>";
+    }).join("")+"</div>";
+  ikatBaca(wrap);
+}
+
+/* ---------- info harian: cuaca + jadwal sholat Banyuwangi ---------- */
+function labelCuaca(kode){
+  var m={0:"Cerah",1:"Cerah Berawan",2:"Berawan",3:"Mendung",45:"Berkabut",48:"Berkabut",
+    51:"Gerimis Ringan",53:"Gerimis",55:"Gerimis Lebat",56:"Gerimis Beku",57:"Gerimis Beku",
+    61:"Hujan Ringan",63:"Hujan Sedang",65:"Hujan Lebat",66:"Hujan Beku",67:"Hujan Beku",
+    71:"Salju Ringan",73:"Salju",75:"Salju Lebat",77:"Salju Halus",
+    80:"Hujan Lokal Ringan",81:"Hujan Lokal",82:"Hujan Lokal Lebat",
+    85:"Salju Lokal",86:"Salju Lokal",95:"Hujan Petir",96:"Hujan Petir + Es",99:"Hujan Petir + Es"};
+  return m[kode]||"Berawan";
+}
+function muatInfoHarian(){
+  var box=el("infoHariIni");if(!box)return;
+  var htmlCuaca="",htmlSholat="";
+  function gambar(){
+    if(htmlCuaca||htmlSholat)box.innerHTML=htmlCuaca+htmlSholat;
+  }
+  fetch("https://api.open-meteo.com/v1/forecast?latitude=-8.2192&longitude=114.3691&current=temperature_2m,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=Asia%2FJakarta&forecast_days=1")
+    .then(function(r){return r.json();})
+    .then(function(j){
+      if(j&&j.current&&j.daily){
+        htmlCuaca='<div class="cuaca-utama">'+esc(labelCuaca(j.current.weather_code))+" · "+Math.round(j.current.temperature_2m)+"°C</div>"+
+          '<div class="baris"><span>Perkiraan hari ini</span><b>'+esc(labelCuaca(j.daily.weather_code[0]))+"</b></div>"+
+          '<div class="baris"><span>Suhu hari ini</span><b>'+Math.round(j.daily.temperature_2m_min[0])+"–"+Math.round(j.daily.temperature_2m_max[0])+"°C</b></div>";
+        gambar();
+      }
+    }).catch(function(){});
+  var tgl=new Date();
+  var kunci=tgl.getDate()+"-"+(tgl.getMonth()+1)+"-"+tgl.getFullYear();
+  fetch("https://api.aladhan.com/v1/timingsByCity/"+kunci+"?city=Banyuwangi&country=Indonesia&method=20")
+    .then(function(r){return r.json();})
+    .then(function(j){
+      if(j&&j.data&&j.data.timings){
+        var t=j.data.timings;
+        function jam(v){return String(v||"").slice(0,5);}
+        htmlSholat='<div class="baris" style="margin-top:.35rem"><span>Subuh</span><b>'+esc(jam(t.Fajr))+"</b></div>"+
+          '<div class="baris"><span>Zuhur</span><b>'+esc(jam(t.Dhuhr))+"</b></div>"+
+          '<div class="baris"><span>Asar</span><b>'+esc(jam(t.Asr))+"</b></div>"+
+          '<div class="baris"><span>Magrib</span><b>'+esc(jam(t.Maghrib))+"</b></div>"+
+          '<div class="baris"><span>Isya</span><b>'+esc(jam(t.Isha))+"</b></div>";
+        gambar();
+      }
+    }).catch(function(){});
+  setTimeout(function(){
+    if(!htmlCuaca&&!htmlSholat)box.innerHTML='<p class="meta">Info cuaca dan jadwal sholat belum bisa dimuat. Periksa koneksi internet Anda.</p>';
+  },6000);
+}
+
 function router(){
   var m=location.hash.match(/^#baca\/(.+)$/);
   var b=m?cariBerita(decodeURIComponent(m[1])):null;
@@ -390,6 +501,12 @@ function isiDenganIklan(paras){
 }
 
 muat();
+muatInfoHarian();
+if("serviceWorker" in navigator){
+  window.addEventListener("load",function(){
+    navigator.serviceWorker.register("sw.js").catch(function(){});
+  });
+}
 </script>
 </body>
 </html>

@@ -1,0 +1,14 @@
+{
+  "name": "Potret Sekitar",
+  "short_name": "Potret Sekitar",
+  "description": "Berita terbaru Banyuwangi dan nasional, cepat dan faktual.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d1b33",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

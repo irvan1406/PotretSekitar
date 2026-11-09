@@ -119,6 +119,11 @@ main{max-width:1180px;margin:0 auto;padding:1.2rem 1rem 2.5rem}
 .artikel-view h2{font-size:1.9rem;line-height:1.22;color:var(--navy);margin:.7rem 0 .5rem}
 .artikel-view .isi p{margin:.9rem 0;font-size:1.05rem;color:#2a3442;line-height:1.7}
 .keterangan{font-size:.8rem;color:var(--mut);padding:.5rem 0 0}
+.galeri{display:grid;grid-template-columns:1fr 1fr;gap:.7rem;margin:1.1rem 0}
+.galeri figure{margin:0}
+.galeri img{width:100%;height:100%;max-height:300px;object-fit:cover;border-radius:.8rem;display:block}
+.galeri figcaption{font-size:.78rem;color:var(--mut);padding:.35rem 0 0}
+@media(max-width:560px){.galeri{grid-template-columns:1fr}}
 .btn-kembali{margin:.2rem 0 1rem}
 .btn-kembali-bawah{margin-top:1.6rem}
 
@@ -371,7 +376,7 @@ function renderArtikel(b){
     '<div class="meta">'+esc(labelTanggal(b.tanggal))+"</div>"+
     (b.gambar?'<img class="sampul" src="'+esc(b.gambar)+'" alt="'+esc(b.judul)+'">':"")+
     (b.gambar_keterangan?'<div class="keterangan">'+esc(b.gambar_keterangan)+"</div>":"")+
-    '<div class="isi">'+isiDenganIklan(paras)+"</div>"+
+    '<div class="isi">'+isiDenganIklan(paras,blokGaleri(b))+"</div>"+
     blokBagikan(b)+
     '<button class="btn btn-kembali btn-kembali-bawah" type="button" data-kembali>&larr; Kembali ke daftar berita</button>';
   Array.prototype.forEach.call(el("viewArtikel").querySelectorAll("[data-kembali]"),function(n){
@@ -495,11 +500,22 @@ function renderIklanSidebar(){
   var a=iklanAktif("sidebar")[0];
   box.innerHTML=a?'<div class="side" style="padding:.7rem">'+htmlIklan(a,"iklan-sisi")+"</div>":"";
 }
-function isiDenganIklan(paras){
+function isiDenganIklan(paras,sisipan){
   var hs=paras.map(function(p){return "<p>"+esc(p)+"</p>";});
   var a=iklanAktif("artikel")[0];
   if(a){if(hs.length>1)hs.splice(1,0,htmlIklan(a,"iklan-artikel"));else hs.push(htmlIklan(a,"iklan-artikel"));}
+  if(sisipan){if(hs.length>2)hs.splice(2,0,sisipan);else hs.push(sisipan);}
   return hs.join("");
+}
+/* ---------- galeri foto tambahan artikel (aturan user 9 Nov 2026: banyak foto ditampilkan semua) ---------- */
+function blokGaleri(b){
+  var g=b&&b.galeri;if(!Array.isArray(g)||!g.length)return "";
+  var fig=g.map(function(it){
+    var o=(typeof it==="string")?{gambar:it}:it||{};
+    var src=o.gambar||o.src||o.url||"";if(!src)return "";
+    return "<figure><img src=\""+esc(src)+"\" alt=\"\" loading=\"lazy\">"+(o.keterangan?'<figcaption>'+esc(o.keterangan)+"</figcaption>":"")+"</figure>";
+  }).join("");
+  return fig?'<div class="galeri">'+fig+"</div>":"";
 }
 
 muat();

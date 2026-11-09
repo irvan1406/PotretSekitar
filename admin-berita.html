@@ -571,6 +571,7 @@ el("formBerita").addEventListener("submit",function(ev){
   var lama=data.berita.find(function(b){return b.id===idLama;});
   if(gambarUrl)berita.gambar=gambarUrl;
   else if(lama)berita.gambar=lama.gambar||"";
+  if(lama&&Array.isArray(lama.galeri)&&lama.galeri.length)berita.galeri=lama.galeri;
   var btn=el("btnTerbitBerita");btn.disabled=true;btn.textContent="Menyimpan…";
   function gagal(err){btn.disabled=false;btn.textContent="Simpan & Terbitkan";setStatus("statusBerita",String(err.message||err),"err");}
   function lanjut(){

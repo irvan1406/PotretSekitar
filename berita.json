@@ -1,5 +1,5 @@
 {
- "terakhirUpdate": "2026-11-09T08:20:00+07:00",
+ "terakhirUpdate": "2026-11-09T09:39:00+07:00",
  "iklan": [],
  "berita": [
   {
@@ -24,6 +24,31 @@
     {
      "gambar": "img-berita/antrean-ketapang-truk-macet.jpg",
      "keterangan": "Antrean truk logistik menunggu giliran masuk kawasan Pelabuhan Ketapang, Senin pagi 9 November 2026. Foto: LB Lintas Banyuwangi"
+    }
+   ]
+  },
+  {
+   "id": "kebakaran-gudang-dekorasi-wringinpitu",
+   "judul": "Gudang Dekorasi dan Dapur di Wringinpitu Tegaldlimo Terbakar, Kerugian Ditaksir Rp900 Juta",
+   "ringkasan": "Api besar melalap gudang dekorasi dan dapur di Desa Wringinpitu, Kecamatan Tegaldlimo, Senin dini hari. Kerugian ditaksir mencapai Rp900 juta, sementara penyebab kebakaran belum diketahui.",
+   "kategori": "Peristiwa",
+   "tanggal": "2026-11-09T00:00:00+07:00",
+   "gambar": "img-berita/kebakaran-gudang-dekorasi-wringinpitu.jpg",
+   "gambar_keterangan": "Api melalap gudang dekorasi dan dapur di Desa Wringinpitu, Tegaldlimo, Senin dini hari 9 November 2026. Foto: @budiutomo010680",
+   "unggulan": false,
+   "terbit": true,
+   "isi": [
+    "Api besar melalap sebuah gudang dekorasi beserta dapur di Desa Wringinpitu, Kecamatan Tegaldlimo, pada Senin (9/11/2026) dini hari. Kobaran api membumbung tinggi dari atap bangunan dan menerangi gelapnya malam, sementara asap tebal mengepul ke udara. Kerugian akibat kebakaran ini ditaksir mencapai Rp900 juta.",
+    "Kebakaran itu terekam dalam sejumlah video warga yang beredar di media sosial pada Senin pagi. Dalam rekaman tersebut, api tampak sudah membesar dan melalap sebagian besar bangunan. Warga yang merekam dari dekat terdengar berulang kali meneriakkan kebakaran dan meminta tolong agar petugas pemadam segera didatangkan.",
+    "Petugas Dinas Pemadam Kebakaran dan Penyelamatan (Damkarmat) Kabupaten Banyuwangi kemudian tiba di lokasi dan berjibaku memadamkan api. Dalam rekaman lain, petugas tampak menyemprotkan air ke arah titik api di tengah kepulan asap tebal yang masih menyelimuti bangunan.",
+    "Bangunan yang terbakar merupakan gudang tempat menyimpan peralatan dekorasi beserta dapurnya. Gudang itu berada di Desa Wringinpitu, salah satu desa di ujung utara Kecamatan Tegaldlimo.",
+    "Hingga berita ini ditulis, penyebab kebakaran belum diketahui. Belum ada keterangan resmi mengenai pemilik bangunan maupun ada tidaknya korban dalam peristiwa ini.",
+    "Peristiwa ini menambah daftar kebakaran bangunan di Banyuwangi dalam beberapa hari terakhir, setelah sebelumnya sebuah rumah warga di Tapanrejo, Muncar, ludes terbakar pada Sabtu (7/11/2026). Redaksi akan memperbarui berita ini begitu ada keterangan resmi dari Damkarmat Banyuwangi."
+   ],
+   "galeri": [
+    {
+     "gambar": "img-berita/kebakaran-gudang-dekorasi-wringinpitu-2.jpg",
+     "keterangan": "Kobaran api membumbung dari atap bangunan yang terbakar di Wringinpitu, Senin dini hari 9 November 2026. Foto: @budiutomo010680"
     }
    ]
   },

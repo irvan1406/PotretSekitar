@@ -1,7 +1,40 @@
 {
- "terakhirUpdate": "2026-11-10T08:00:00+07:00",
+ "terakhirUpdate": "2026-11-10T08:27:00+07:00",
  "iklan": [],
  "berita": [
+  {
+   "id": "kantor-desa-alasrejo-dibobol-maling",
+   "judul": "Kantor Desa Alasrejo Dibobol Maling, Uang BAZNAS dan Sejumlah Barang Elektronik Raib",
+   "ringkasan": "Kantor Desa Alasrejo, Kecamatan Wongsorejo, dibobol maling dan baru diketahui pada Senin pagi (9/11/2026). Sejumlah barang elektronik dan uang BAZNAS yang disimpan di kotak donasi raib, sementara polisi memeriksa lokasi dan mendata barang yang hilang.",
+   "kategori": "Peristiwa",
+   "tanggal": "2026-11-09T00:00:00+07:00",
+   "gambar": "img-berita/kantor-desa-alasrejo-polisi-periksa.jpg",
+   "gambar_keterangan": "Anggota kepolisian memeriksa ruangan Kantor Desa Alasrejo, Kecamatan Wongsorejo, usai dibobol maling, Senin pagi (9/11/2026). Foto: tangkapan layar video Instagram @ha_pe_aja",
+   "unggulan": true,
+   "terbit": true,
+   "isi": [
+    "Kantor desa di ujung utara Banyuwangi menjadi sasaran pencuri. Kantor Desa Alasrejo, Kecamatan Wongsorejo, Kabupaten Banyuwangi, dibobol maling dan baru diketahui pada Senin pagi (9/11/2026). Sejumlah barang elektronik dan uang BAZNAS yang disimpan di kotak donasi dilaporkan raib.",
+    "Barang-barang yang hilang dari kantor desa itu antara lain genset, kipas angin, monitor komputer, dan dinamo dispenser. Selain perangkat elektronik, uang BAZNAS yang disimpan di dalam kotak donasi kaca di ruangan kantor juga ikut dibawa kabur pelaku.",
+    "Pelaku diduga masuk ke dalam kantor dengan merusak kusen pintu dan jendela. Rekaman di lokasi memperlihatkan kerusakan pada kusen jendela kayu serta kotak donasi kaca yang gembok dan penguncinya sudah dirusak. Di dalam kotak donasi itu masih tampak sisa beberapa lembar uang kertas.",
+    "Sebagian perangkat elektronik yang dibobol itu ditemukan dalam kondisi rusak dan terbuang di luar kantor. Monitor komputer dan casing CPU berserakan di tanah di antara dedaunan kering, tidak jauh dari bangunan kantor desa.",
+    "Anggota kepolisian kemudian datang ke lokasi dan memeriksa ruangan kantor bersama perangkat desa. Polisi mendata barang-barang yang hilang serta memeriksa jejak kerusakan yang ditinggalkan pelaku di pintu, jendela, dan kotak donasi.",
+    "Hingga kabar ini disiarkan, identitas pelaku belum diketahui dan jumlah total kerugian belum disebutkan. Polisi masih menyelidiki kasus pencurian ini, dan redaksi akan memperbarui berita ini begitu ada keterangan resmi dari kepolisian."
+   ],
+   "galeri": [
+    {
+     "gambar": "img-berita/kantor-desa-alasrejo-kotak-donasi-rusak.jpg",
+     "keterangan": "Kotak donasi kaca berisi uang BAZNAS yang gembok dan penguncinya dirusak pelaku di Kantor Desa Alasrejo. Foto: tangkapan layar video Instagram @ha_pe_aja"
+    },
+    {
+     "gambar": "img-berita/kantor-desa-alasrejo-elektronik-dibuang.jpg",
+     "keterangan": "Monitor komputer dan casing CPU yang rusak terbuang di luar Kantor Desa Alasrejo usai dibobol maling. Foto: tangkapan layar video Instagram @ha_pe_aja"
+    },
+    {
+     "gambar": "img-berita/kantor-desa-alasrejo-papan-nama.jpg",
+     "keterangan": "Papan nama Desa Alasrejo di dalam Kantor Desa Alasrejo, Kecamatan Wongsorejo. Foto: tangkapan layar video Instagram @ha_pe_aja"
+    }
+   ]
+  },
   {
    "id": "wna-selandia-baru-nyaris-tenggelam-pecemengan",
    "judul": "Nyaris Tenggelam di Pantai Pecemengan, Kakek 75 Tahun Asal Selandia Baru Diselamatkan Nelayan",

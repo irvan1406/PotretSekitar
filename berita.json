@@ -1,7 +1,41 @@
 {
- "terakhirUpdate": "2026-11-10T08:04:03+00:00",
+ "terakhirUpdate": "2026-11-10T08:49:38+00:00",
  "iklan": [],
  "berita": [
+  {
+   "id": "kebakaran-gudang-dekorasi-tegaldlimo-banyuwangi",
+   "judul": "Gudang Dekorasi dan Dapur di Tegaldlimo Hangus Terbakar, Kerugian Ditaksir Rp900 Juta",
+   "ringkasan": "Gudang dekorasi dan dapur di Dusun Bayatrejo, Desa Wringinpitu, Tegaldlimo, hangus terbakar pada Selasa (10/11/2026) dini hari. Api diduga dipicu korsleting listrik saat karyawan lembur, meludeskan tiga set perlengkapan dekorasi dan lima sepeda motor dengan kerugian ditaksir Rp900 juta.",
+   "kategori": "Peristiwa",
+   "tanggal": "2026-11-10T01:30:00+07:00",
+   "gambar": "img-berita/kebakaran-gudang-dekorasi-tegaldlimo-banyuwangi.jpg",
+   "gambar_keterangan": "Asap mengepul dari atap gudang dekorasi yang terbakar di Dusun Bayatrejo, Desa Wringinpitu, Tegaldlimo, Selasa (10/11/2026) dini hari, sementara petugas Damkar berjaga di sisi bangunan. Foto: tangkapan layar video JTV Banyuwangi",
+   "galeri": [
+    {
+     "gambar": "img-berita/kebakaran-gudang-dekorasi-tegaldlimo-api.jpg",
+     "keterangan": "Kobaran api melalap bagian dalam gudang dekorasi di Wringinpitu, Tegaldlimo, Selasa (10/11/2026) dini hari. Foto: tangkapan layar video JTV Banyuwangi"
+    },
+    {
+     "gambar": "img-berita/kebakaran-gudang-dekorasi-tegaldlimo-sisa.jpg",
+     "keterangan": "Sisa puing dan bara yang masih mengepulkan asap di lokasi gudang dekorasi yang terbakar, dengan selang pemadam tergeletak di lantai. Foto: tangkapan layar video JTV Banyuwangi"
+    },
+    {
+     "gambar": "img-berita/kebakaran-gudang-dekorasi-tegaldlimo-dinding.jpg",
+     "keterangan": "Dinding bata gudang yang gosong dan berasap usai kebakaran di Wringinpitu, Tegaldlimo, Selasa (10/11/2026) dini hari. Foto: tangkapan layar video JTV Banyuwangi"
+    }
+   ],
+   "unggulan": false,
+   "terbit": true,
+   "isi": [
+    "Gudang dekorasi beserta dapur di Dusun Bayatrejo, Desa Wringinpitu, Kecamatan Tegaldlimo, hangus terbakar pada Selasa (10/11/2026) dini hari. Api diduga dipicu korsleting listrik saat aktivitas kerja lembur berlangsung, dan dalam waktu singkat meludeskan bangunan beserta tiga set perlengkapan dekorasi dan lima unit sepeda motor. Kerugian materiil ditaksir mencapai Rp900 juta.",
+    "Kebakaran pertama kali diketahui sekitar pukul 01.30 WIB. Percikan api dari arus pendek listrik diduga muncul saat karyawan masih bekerja lembur, lalu cepat menyambar material yang mudah terbakar di dalam gudang. Warga sekitar bersama para karyawan sempat berupaya memadamkan api secara mandiri, namun keterbatasan peralatan membuat upaya itu tidak membuahkan hasil dan api terus meluas.",
+    "Laporan kebakaran baru diterima Dinas Pemadam Kebakaran dan Penyelamatan (Damkarmat) Banyuwangi pada pukul 01.50 WIB. Tim dari Sektor Bangorejo langsung dikerahkan dan tiba di lokasi sekitar pukul 02.30 WIB, kemudian dibantu personel dari Sektor Srono untuk mempercepat pemadaman. Petugas juga fokus mengantisipasi agar kobaran api tidak merembet ke permukiman warga di sekitar lokasi.",
+    "Berkat upaya petugas gabungan, kobaran api akhirnya berhasil dipadamkan sekitar pukul 03.50 WIB. Petugas kemudian melanjutkan proses pendinginan dan penyisiran menyeluruh untuk memastikan tidak ada sisa bara api yang berpotensi memicu kebakaran susulan. Seluruh rangkaian operasi penanganan dinyatakan rampung pada pukul 05.00 WIB.",
+    "Api cepat membesar dan merambat ke bagian gudang lainnya karena banyak material yang mudah terbakar, seperti styrofoam, tripleks, dan kain. Selain bangunan gudang dan dapur yang hangus, api juga melahap tiga set barang dekorasi serta lima unit sepeda motor milik warga atau karyawan, yang terdiri atas tiga unit Yamaha NMAX dan dua unit Honda Scoopy.",
+    "Kasi Penyelamatan dan Evakuasi Damkarmat Banyuwangi, Salam Bikwanto, memastikan tidak ada korban jiwa maupun luka-luka dalam peristiwa ini. Dugaan sementara penyebab kebakaran adalah korsleting listrik saat kerja lembur, dan kerugian materiil berdasarkan kalkulasi sementara ditaksir mencapai Rp900 juta.",
+    "Peristiwa ini terjadi hanya beberapa jam sebelum kebakaran besar melanda eks Pabrik Kertas Basuki Rahmat (PKBR) di Singotrunan, Banyuwangi Kota, pada Selasa siang, sehingga dalam satu hari yang sama Banyuwangi mencatat dua kebakaran besar dengan kerugian ratusan juta rupiah."
+   ]
+  },
   {
    "id": "kebakaran-eks-pabrik-kertas-basuki-rahmat-pkbr-banyuwangi",
    "judul": "Kebakaran Melanda Eks Pabrik Kertas Basuki Rahmat Banyuwangi, Asap Tebal Terlihat hingga Pantai Boom",

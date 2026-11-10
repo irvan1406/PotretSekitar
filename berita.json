@@ -1,7 +1,36 @@
 {
- "terakhirUpdate": "2026-11-10T16:45:31+00:00",
+ "terakhirUpdate": "2026-11-10T17:26:18+00:00",
  "iklan": [],
  "berita": [
+  {
+   "id": "perempuan-ketapang-mengapung-selat-bali",
+   "judul": "Mengapung di Tengah Selat Bali, Perempuan Asal Ketapang Diselamatkan Nelayan",
+   "ringkasan": "Indah Riwayati (45), warga Desa Ketapang, Kecamatan Kalipuro, ditemukan mengapung di tengah Selat Bali dalam kondisi nyaris tenggelam, Selasa (10/11/2026) pagi. Nelayan Dwi Efendi bersama tiga rekannya mengevakuasi korban ke Pelabuhan Boom, sementara polisi masih menyelidiki bagaimana korban bisa berada di tengah laut.",
+   "kategori": "Peristiwa",
+   "tanggal": "2026-11-10T00:00:00+07:00",
+   "gambar": "img-berita/perempuan-mengapung-selat-bali.jpg",
+   "gambar_keterangan": "Indah Riwayati (45) berpegangan pada cadik perahu saat ditemukan mengapung di tengah Selat Bali, Selasa (10/11/2026) pagi. Foto: tangkapan layar video JTV Banyuwangi",
+   "galeri": [
+    {
+     "gambar": "img-berita/perempuan-mengapung-selat-bali-evakuasi.jpg",
+     "keterangan": "Nelayan menarik korban ke atas perahu setelah menemukannya mengapung di kawasan Takat Tengah, perairan Selat Bali. Foto: tangkapan layar video JTV Banyuwangi"
+    },
+    {
+     "gambar": "img-berita/perempuan-mengapung-selat-bali-pelampung.jpg",
+     "keterangan": "Pelampung dilemparkan nelayan ke arah korban yang mengapung di tengah Selat Bali. Foto: tangkapan layar video JTV Banyuwangi"
+    }
+   ],
+   "unggulan": false,
+   "terbit": true,
+   "isi": [
+    "Seorang perempuan ditemukan mengapung di tengah Selat Bali dalam kondisi nyaris tenggelam, Selasa (10/11/2026) pagi. Perempuan itu adalah Indah Riwayati (45), warga Desa Ketapang, Kecamatan Kalipuro, Banyuwangi, yang kemudian berhasil diselamatkan oleh nelayan yang sedang melaut di kawasan tersebut.",
+    "Korban ditemukan oleh nelayan Dwi Efendi bersama tiga rekannya di kawasan Takat Tengah, perairan Selat Bali. Saat pertama kali terlihat, korban tengah mengapung di tengah laut dan berpegangan pada cadik perahu. Para nelayan segera mendekati korban, melemparkan pelampung, lalu menariknya naik ke atas perahu.",
+    "Setelah berhasil dievakuasi, korban dibawa menuju Pelabuhan Boom, Banyuwangi. Setibanya di pelabuhan, personel kepolisian sudah berada di lokasi untuk menyambut kedatangan perahu nelayan tersebut. Korban kemudian dibawa pulang dengan ambulans dan mendapatkan perawatan medis.",
+    "Kasat Polairud Polresta Banyuwangi Kompol Muchammad Wahyudi membenarkan identitas korban. Ia menyebut korban ditemukan dalam keadaan nyaris tenggelam dan saat itu masih dalam kondisi linglung sehingga belum bisa dimintai keterangan secara jelas.",
+    "Hingga kini, polisi masih menyelidiki bagaimana korban bisa berada di tengah laut. Belum ada keterangan resmi mengenai kronologi sebelum korban ditemukan mengapung, termasuk apakah korban terjatuh dari kapal atau ada penyebab lain.",
+    "Peristiwa ini menjadi pengingat bagi para pengguna jasa penyeberangan dan nelayan di Selat Bali untuk selalu waspada selama berada di perairan. Selat Bali dikenal memiliki arus yang kuat, terutama pada pagi hari ketika aktivitas penyeberangan dan penangkapan ikan sedang ramai."
+   ]
+  },
   {
    "id": "rapbd-2027-banyuwangi-jawaban-bupati-paripurna",
    "judul": "Jawab Fraksi, Pemkab Banyuwangi Pertahankan Target Pertumbuhan Ekonomi 5,41 Persen di RAPBD 2027",

@@ -1,7 +1,36 @@
 {
-  "terakhirUpdate": "2026-11-12T15:50:00+07:00",
+  "terakhirUpdate": "2026-11-12T16:56:52+07:00",
   "iklan": [],
   "berita": [
+    {
+      "id": "truk-boks-tabrak-warung-sempu",
+      "judul": "Diduga Rem Blong, Truk Boks Tabrak Warung dan Tembok Toko di Sempu",
+      "ringkasan": "Sebuah truk boks putih diduga mengalami rem blong dan menabrak warung serta tembok toko pertanian di kawasan Kantor Kecamatan Sempu, Banyuwangi, Kamis (12/11/2026) siang. Tidak ada korban luka dalam kecelakaan tunggal ini, namun warung hancur dan kabel listrik putus berserakan di jalan.",
+      "kategori": "Peristiwa",
+      "tanggal": "2026-11-12T00:00:00+07:00",
+      "gambar": "img-berita/truk-boks-tabrak-warung-sempu.jpg",
+      "gambar_keterangan": "Truk boks putih yang menabrak warung dan tembok toko pertanian di kawasan Kantor Kecamatan Sempu, Banyuwangi, Kamis (12/11/2026) siang; bagian depan truk ringsek. Foto: Tangkapan layar video BWI TV",
+      "galeri": [
+        {
+          "gambar": "img-berita/truk-boks-tabrak-warung-sempu-2.jpg",
+          "keterangan": "Puing atap dan kayu warung yang hancur ditabrak truk boks di Sempu, Banyuwangi, Kamis (12/11/2026) siang. Foto: Tangkapan layar video BWI TV"
+        },
+        {
+          "gambar": "img-berita/truk-boks-tabrak-warung-sempu-3.jpg",
+          "keterangan": "Aiptu Hasyim Asari, anggota Unit Lantas Polsek Genteng, memberikan keterangan di lokasi kecelakaan di Sempu, Banyuwangi. Foto: Tangkapan layar video BWI TV"
+        }
+      ],
+      "unggulan": false,
+      "terbit": true,
+      "isi": [
+        "BANYUWANGI - Sebuah truk boks putih menabrak warung dan tembok toko pertanian di kawasan Kantor Kecamatan Sempu, Kecamatan Sempu, Kabupaten Banyuwangi, Kamis (12/11/2026) siang. Kecelakaan tunggal yang diduga disebabkan rem blong itu membuat warung hancur dan kabel listrik putus, namun tidak menimbulkan korban luka.",
+        "Truk itu melaju dari arah timur menuju barat. Setibanya di kawasan Kantor Kecamatan Sempu, rem truk diduga tidak berfungsi sehingga sopir kehilangan kendali. Truk lalu oleng ke kanan dan menghantam sebuah warung rujak hingga hancur, kemudian menabrak tiang listrik dan tembok toko pertanian di sebelah barat kantor kecamatan. Truk akhirnya berhenti dengan bagian depan menempel tembok toko.",
+        "Di lokasi kejadian, puing atap seng, kayu, dan kabel listrik yang putus berserakan di jalan. Bagian depan truk boks berwarna putih itu tampak ringsek setelah menghantam tembok. Warga sekitar yang mendengar benturan keras langsung berkerumun ke lokasi untuk melihat kondisi sopir dan pemilik warung.",
+        "Aiptu Hasyim Asari, anggota Unit Lantas Polsek Genteng, yang berada di lokasi menjelaskan bahwa truk melaju dari arah timur ke barat, kemudian mengalami gangguan rem hingga oleng ke kanan dan menabrak warung sebelum menghantam tembok toko. Ia memastikan pemilik toko tidak mengalami luka akibat kejadian tersebut.",
+        "Hingga berita ini diturunkan, belum ada taksiran kerugian akibat kecelakaan ini dan identitas sopir belum disampaikan dalam keterangan yang beredar. Polisi masih menangani kecelakaan tersebut di lokasi.",
+        "Pengendara yang melintas di kawasan Sempu diimbau tetap waspada dan memastikan kondisi rem kendaraan dalam keadaan baik sebelum bepergian, terutama saat melintasi kawasan permukiman dan perkantoran."
+      ]
+    },
     {
       "id": "boneka-pengantin-gumuk-kantong",
       "judul": "Sepasang Boneka Pengantin Diduga Media Guna-Guna Ditemukan di Pantai Gumuk Kantong Muncar",

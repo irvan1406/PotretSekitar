@@ -1,7 +1,32 @@
 {
-  "terakhirUpdate": "2026-11-12T14:45:00+07:00",
+  "terakhirUpdate": "2026-11-12T14:50:49+07:00",
   "iklan": [],
   "berita": [
+    {
+      "id": "perempuan-terapung-selat-bali-diselamatkan-pemancing",
+      "judul": "Terapung di Selat Bali, Perempuan 45 Tahun Asal Kalipuro Diselamatkan Empat Pemancing",
+      "ringkasan": "Indah Riwayati (45), warga Desa Ketapang, Kalipuro, ditemukan terapung lemah di perairan dekat Takat Tengah, Selat Bali, Selasa (10/11/2026) pagi. Empat pemancing mengevakuasinya ke Dermaga Pelabuhan Rakyat Boom dalam kondisi selamat.",
+      "kategori": "Peristiwa",
+      "tanggal": "2026-11-10T08:20:00+07:00",
+      "gambar": "img-berita/perempuan-terapung-selat-bali.jpg",
+      "gambar_keterangan": "Indah Riwayati (45) berpegangan pada ban pelampung saat dievakuasi empat pemancing di Selat Bali, Selasa (10/11/2026). (Tangkapan layar video amatir)",
+      "galeri": [
+        {
+          "gambar": "img-berita/perempuan-terapung-selat-bali-2.jpg",
+          "keterangan": "Seorang pemancing memegang ban pelampung di atas jukung saat proses evakuasi di Selat Bali. (Tangkapan layar video amatir)"
+        }
+      ],
+      "unggulan": false,
+      "terbit": true,
+      "isi": [
+        "BANYUWANGI - Selasa pagi di tengah Selat Bali, empat pemancing yang sedang melaut dikejutkan oleh sosok perempuan yang terapung lemah di permukaan air. Perempuan itu masih sadar dan berpegangan pada cadik perahu mereka, lalu berhasil diselamatkan dan dibawa ke daratan dalam kondisi selamat.",
+        "Perempuan itu diketahui bernama Indah Riwayati (45), warga Desa Ketapang, Kecamatan Kalipuro, Banyuwangi. Ia ditemukan terapung di perairan dekat Takat Tengah, Selat Bali, pada Selasa (10/11/2026) pagi, sekitar pukul 08.20 WIB.",
+        "Keempat pemancing yang sedang memancing di sekitar lokasi melihat Indah terapung dan segera mendekat dengan jukung mereka. Mereka melemparkan ban pelampung berwarna merah ke arahnya, lalu menariknya perlahan ke sisi perahu hingga berhasil diangkat ke atas jukung dalam kondisi lemas.",
+        "Setelah berhasil dievakuasi, para pemancing segera membawa Indah menuju Dermaga Pelabuhan Rakyat Boom, Banyuwangi. Di dermaga, petugas Satuan Polisi Air dan Udara (Satpolairud) sudah menunggu dan langsung memberikan pertolongan awal kepada perempuan itu.",
+        "Indah kemudian diantar pulang dengan ambulans milik RAPI sekitar pukul 08.54 WIB. Ia dilaporkan dalam kondisi lemah namun selamat setelah menjalani pemeriksaan awal di dermaga.",
+        "Hingga laporan ini dibuat, penyebab Indah bisa berada di tengah laut belum dapat dipastikan. Aksi cepat keempat pemancing itu pun menuai apresiasi warganet, karena kesigapan mereka menyelamatkan nyawa di tengah laut."
+      ]
+    },
     {
       "id": "creative-hub-banyuwangi-aktivasi-batik-2026",
       "judul": "Creative Hub Banyuwangi Diaktifkan, Kemenekraf Latih Perancang Motif Batik",

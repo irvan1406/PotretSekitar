@@ -1,5 +1,5 @@
 {
- "terakhirUpdate": "2026-11-12T09:58:00+07:00",
+ "terakhirUpdate": "2026-11-12T10:00:00+07:00",
  "iklan": [],
  "berita": [
   {
@@ -121,12 +121,6 @@
    "tanggal": "2026-11-12T09:24:00+07:00",
    "gambar": "img-berita/kamistage-6-poster-2.jpg",
    "gambar_keterangan": "Poster resmi Kamistage 6.0 (Musikami Music Academy)",
-   "galeri": [
-    {
-     "gambar": "img-berita/kamistage-6-poster-1.jpg",
-     "keterangan": "Poster Kamistage 6.0 (Banyuwangi Tourism)"
-    }
-   ],
    "unggulan": false,
    "terbit": true,
    "isi": [

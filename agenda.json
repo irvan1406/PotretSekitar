@@ -1,0 +1,145 @@
+{
+ "terakhirUpdate": "2026-11-12T09:26:00+07:00",
+ "event": [
+  {
+   "id": "open-karate-nasional",
+   "nama": "Open Karate Nasional",
+   "mulai": "2026-11-13",
+   "selesai": "2026-11-16",
+   "tempat": "Banyuwangi",
+   "poster": "img-berita/agenda-open-karate-nasional.jpg",
+   "artikel": null,
+   "keterangan": "Kejuaraan karate terbuka tingkat nasional dalam kalender Banyuwangi Attraction 2026."
+  },
+  {
+   "id": "kamistage-concert-6",
+   "nama": "Kamistage Concert 6.0",
+   "mulai": "2026-11-14",
+   "selesai": "2026-11-14",
+   "tempat": "Gesibu Blambangan, Banyuwangi",
+   "poster": "img-berita/kamistage-6-poster-1.jpg",
+   "artikel": "kamistage-6-gesibu-blambangan",
+   "keterangan": "Konser tahunan ke-6 Musikami Music Academy. Lebih dari 100 siswa tampil bersama enam bintang tamu, gerbang dibuka pukul 15.00 WIB."
+  },
+  {
+   "id": "beach-jazz-banyuwangi",
+   "nama": "Beach Jazz",
+   "mulai": "2026-11-21",
+   "selesai": "2026-11-21",
+   "tempat": "Banyuwangi",
+   "poster": "img-berita/agenda-beach-jazz-banyuwangi.jpg",
+   "artikel": null,
+   "keterangan": "Festival jazz tepi pantai tahunan Banyuwangi."
+  },
+  {
+   "id": "sate-kaliploso-nusantara",
+   "nama": "Sate Kaliploso Nusantara",
+   "mulai": "2026-11-28",
+   "selesai": "2026-11-28",
+   "tempat": "Desa Kaliploso, Banyuwangi",
+   "poster": "img-berita/agenda-sate-kaliploso-nusantara.jpg",
+   "artikel": null,
+   "keterangan": "Festival kuliner sate di Desa Kaliploso."
+  },
+  {
+   "id": "padhang-ulanan-barong-ider-bumi",
+   "nama": "Padhang Ulanan (Barong Ider Bumi)",
+   "mulai": "2026-11-28",
+   "selesai": "2026-11-28",
+   "tempat": "Banyuwangi",
+   "poster": "img-berita/agenda-padhang-ulanan-barong-ider-bumi.jpg",
+   "artikel": null,
+   "keterangan": "Ritual Barong Ider Bumi dalam rangkaian Padhang Ulanan."
+  },
+  {
+   "id": "jebeng-thulik-banyuwangi",
+   "nama": "Jebeng Thulik Banyuwangi",
+   "mulai": "2026-12-05",
+   "selesai": "2026-12-05",
+   "tempat": "Banyuwangi",
+   "poster": "img-berita/agenda-jebeng-thulik-banyuwangi.jpg",
+   "artikel": null,
+   "keterangan": "Ajang pemilihan duta wisata Jebeng Thulik Banyuwangi."
+  },
+  {
+   "id": "kita-bisa",
+   "nama": "Kita Bisa",
+   "mulai": "2026-12-05",
+   "selesai": "2026-12-05",
+   "tempat": "Banyuwangi",
+   "poster": "img-berita/agenda-kita-bisa.jpg",
+   "artikel": null,
+   "keterangan": "Agenda Banyuwangi Attraction 2026."
+  },
+  {
+   "id": "padhang-ulanan-puputan-bayu",
+   "nama": "Padhang Ulanan (Puputan Bayu)",
+   "mulai": "2026-12-12",
+   "selesai": "2026-12-12",
+   "tempat": "Bayu, Banyuwangi",
+   "poster": "img-berita/agenda-padhang-ulanan-puputan-bayu.jpg",
+   "artikel": null,
+   "keterangan": "Padhang Ulanan edisi Puputan Bayu."
+  },
+  {
+   "id": "petik-laut-mandar",
+   "nama": "Petik Laut Mandar",
+   "mulai": "2026-12-12",
+   "selesai": "2026-12-12",
+   "tempat": "Kampung Mandar, Banyuwangi",
+   "poster": "img-berita/agenda-petik-laut-mandar.jpg",
+   "artikel": null,
+   "keterangan": "Ritual syukur nelayan Kampung Mandar di pesisir Banyuwangi."
+  },
+  {
+   "id": "kontes-burung-berkicau",
+   "nama": "Kontes Burung Berkicau",
+   "mulai": "2026-12-13",
+   "selesai": "2026-12-13",
+   "tempat": "Banyuwangi",
+   "poster": "img-berita/agenda-kontes-burung-berkicau.jpg",
+   "artikel": null,
+   "keterangan": "Kontes burung berkicau dalam kalender Banyuwangi Attraction 2026."
+  },
+  {
+   "id": "gebyar-harjaba-2026",
+   "nama": "Gebyar Harjaba",
+   "mulai": "2026-12-19",
+   "selesai": "2026-12-19",
+   "tempat": "Banyuwangi",
+   "poster": "img-berita/agenda-gebyar-harjaba-2026.jpg",
+   "artikel": "gebyar-harjaba-gus-iqdam",
+   "keterangan": "Puncak perayaan Hari Jadi Banyuwangi. Gus Iqdam dijadwalkan hadir."
+  },
+  {
+   "id": "pameran-lukisan-harjaba",
+   "nama": "Pameran Lukisan Harjaba",
+   "mulai": "2026-12-21",
+   "selesai": "2026-12-28",
+   "tempat": "Banyuwangi",
+   "poster": "img-berita/agenda-pameran-lukisan-harjaba.jpg",
+   "artikel": null,
+   "keterangan": "Pameran lukisan dalam rangkaian Hari Jadi Banyuwangi."
+  },
+  {
+   "id": "gandrung-dari-masa-ke-masa",
+   "nama": "Gandrung dari Masa ke Masa",
+   "mulai": "2026-12-24",
+   "selesai": "2026-12-26",
+   "tempat": "Banyuwangi",
+   "poster": "img-berita/agenda-gandrung-dari-masa-ke-masa.jpg",
+   "artikel": null,
+   "keterangan": "Pergelaran perjalanan Tari Gandrung dari masa ke masa."
+  },
+  {
+   "id": "refleksi-akhir-tahun",
+   "nama": "Refleksi Akhir Tahun",
+   "mulai": "2026-12-31",
+   "selesai": "2026-12-31",
+   "tempat": "Banyuwangi",
+   "poster": "img-berita/agenda-refleksi-akhir-tahun.jpg",
+   "artikel": null,
+   "keterangan": "Agenda penutup tahun 2026 di Banyuwangi."
+  }
+ ]
+}

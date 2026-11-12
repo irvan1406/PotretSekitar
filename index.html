@@ -140,6 +140,32 @@ main{max-width:1180px;margin:0 auto;padding:1.2rem 1rem 2.5rem}
 #iklanAtas:empty{display:none}
 #iklanSidebar:empty{display:none}
 
+
+/* ===== Agenda Event & Infografis ===== */
+.agenda-note{color:var(--mut);font-size:.95rem;margin:-.4rem 0 1.1rem;max-width:760px}
+.agenda-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem}
+.agenda-card{background:var(--card);border:1px solid var(--line);border-radius:1rem;overflow:hidden;display:flex;flex-direction:column}
+.agenda-card img{width:100%;aspect-ratio:4/5;object-fit:cover}
+.agenda-card.lewat img{filter:grayscale(.6);opacity:.75}
+.agenda-body{padding:.95rem 1rem 1.05rem;display:flex;flex-direction:column;gap:.45rem;flex:1}
+.agenda-body h3{font-size:1.08rem;line-height:1.3;color:var(--navy)}
+.agenda-body p{font-size:.9rem;color:var(--mut)}
+.agenda-body .btn{margin-top:auto;align-self:flex-start}
+.agenda-meta{font-size:.86rem;color:var(--mut);font-weight:600}
+.agenda-status{display:inline-block;align-self:flex-start;background:var(--chip);color:var(--navy);font-size:.72rem;font-weight:800;letter-spacing:.05em;text-transform:uppercase;padding:.22rem .6rem;border-radius:999px}
+.agenda-status.jalan{background:#1faa55;color:#fff}
+.agenda-status.dekat{background:var(--gold);color:var(--navy)}
+.agenda-status.lewat{background:#d7dde8;color:var(--mut)}
+.agenda-teaser{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem}
+.agenda-mini{display:flex;gap:.8rem;background:var(--card);border:1px solid var(--line);border-radius:1rem;padding:.7rem;align-items:center;cursor:pointer}
+.agenda-mini:hover{box-shadow:0 8px 24px rgba(13,27,51,.10)}
+.agenda-mini img{width:64px;height:80px;object-fit:cover;border-radius:.6rem;flex:none}
+.agenda-mini h5{font-size:.95rem;color:var(--navy);line-height:1.3}
+.card img.img-penuh{object-fit:contain;background:var(--navy);height:300px}
+.artikel-view img.sampul.penuh{max-height:none;object-fit:contain}
+@media(max-width:860px){.agenda-grid{grid-template-columns:repeat(2,1fr)}.agenda-teaser{grid-template-columns:1fr}}
+@media(max-width:520px){.agenda-grid{grid-template-columns:1fr}}
+
 /* ===== Bagikan & info harian & rubrik ===== */
 .bagikan{display:flex;gap:.5rem;flex-wrap:wrap;align-items:center;margin-top:1.6rem;padding-top:1.1rem;border-top:1px solid var(--line)}
 .bagikan span{font-weight:700;color:var(--navy);font-size:.92rem;margin-right:.2rem}
@@ -225,10 +251,14 @@ footer{background:var(--navy);color:#c7d2e4;margin-top:2rem}
     </aside>
   </div>
   <section id="rubrikWrap" style="margin-top:1.8rem"></section>
+ <section id="agendaTeaserWrap" style="margin-top:1.8rem"></section>
  </div>
 
  <!-- ===== HALAMAN ARTIKEL (tampilan penuh) ===== -->
  <section id="viewArtikel" class="artikel-view" hidden></section>
+
+ <!-- ===== HALAMAN AGENDA EVENT ===== -->
+ <section id="viewAgenda" hidden></section>
 </main>
 
 <footer><div class="foot-in">
@@ -262,7 +292,7 @@ function daftarAktif(){
   pub.sort(function(a,b){return String(b.tanggal||"").localeCompare(String(a.tanggal||""));});
   return pub;
 }
-function renderSemua(){renderNav();renderTicker();renderIklanAtas();renderHero();renderGrid();renderSide();renderRubrik();}
+function renderSemua(){renderNav();renderTicker();renderIklanAtas();renderHero();renderGrid();renderSide();renderRubrik();renderAgendaTeaser();}
 function muat(){
   fetch("berita.json?ts="+Date.now()).then(function(r){
     if(!r.ok)throw new Error("HTTP "+r.status);
@@ -292,10 +322,12 @@ function renderNav(){
   var nav=el("navKategori");
   nav.innerHTML=daftarKategori().map(function(k){
     return '<button type="button" class="nav-btn'+(k===kategoriAktif?" aktif":"")+'" data-kat="'+esc(k)+'">'+esc(k)+"</button>";
-  }).join("")+'<span class="search"><input type="text" id="inpCari" placeholder="Cari berita…" value="'+esc(kataCari)+'"></span>';
+  }).join("")+'<button type="button" class="nav-btn'+(location.hash==="#agenda"?" aktif":"")+'" id="btnAgenda">Agenda Event</button><span class="search"><input type="text" id="inpCari" placeholder="Cari berita…" value="'+esc(kataCari)+'"></span>';
   Array.prototype.forEach.call(nav.querySelectorAll(".nav-btn"),function(b){
     b.addEventListener("click",function(){kategoriAktif=b.getAttribute("data-kat");if(location.hash)location.hash="";renderNav();renderHero();renderGrid();});
   });
+  var ba=el("btnAgenda");
+  if(ba)ba.addEventListener("click",function(){location.hash="agenda";});
   var inp=el("inpCari");
   inp.addEventListener("input",function(){kataCari=inp.value;if(location.hash)location.hash="";renderGrid();var n=el("inpCari");n.focus();n.setSelectionRange(n.value.length,n.value.length);});
 }
@@ -338,7 +370,7 @@ function renderGrid(){
   if(!all.length){g.innerHTML="";el("statusMuat").innerHTML='<div class="kosong">Belum ada berita yang cocok. Coba kata kunci atau kategori lain.</div>';return;}
   el("statusMuat").innerHTML="";
   g.innerHTML=all.map(function(b){
-    return '<article class="card" data-baca="'+esc(b.id)+'">'+(b.gambar?'<img src="'+esc(b.gambar)+'" alt="'+esc(b.judul)+'" loading="lazy">':"")+
+    return '<article class="card" data-baca="'+esc(b.id)+'">'+(b.gambar?'<img src="'+esc(b.gambar)+'" alt="'+esc(b.judul)+'" loading="lazy"'+(b.kategori==="Infografis"?' class="img-penuh"':"")+'>':"")+
     '<div class="card-body"><span class="chip navy" style="align-self:flex-start">'+esc(b.kategori||"Berita")+"</span>"+
     "<h3>"+esc(b.judul)+"</h3><p>"+esc(b.ringkasan||"")+"</p>"+kartuMeta(b)+"</div></article>";
   }).join("");
@@ -374,7 +406,7 @@ function renderArtikel(b){
     '<div><span class="chip">'+esc(b.kategori||"Berita")+"</span></div>"+
     "<h2>"+esc(b.judul)+"</h2>"+
     '<div class="meta">'+esc(labelTanggal(b.tanggal))+"</div>"+
-    (b.gambar?'<img class="sampul" src="'+esc(b.gambar)+'" alt="'+esc(b.judul)+'">':"")+
+    (b.gambar?'<img class="'+(b.kategori==="Infografis"?"sampul penuh":"sampul")+'" src="'+esc(b.gambar)+'" alt="'+esc(b.judul)+'">':"")+
     (b.gambar_keterangan?'<div class="keterangan">'+esc(b.gambar_keterangan)+"</div>":"")+
     '<div class="isi">'+isiDenganIklan(paras,blokGaleri(b))+"</div>"+
     blokBagikan(b)+
@@ -411,7 +443,7 @@ function renderRubrik(){
   if(items.length<2){wrap.innerHTML="";return;}
   wrap.innerHTML='<h2 class="sec-title">Wisata &amp; Budaya Banyuwangi</h2><div class="rubrik-grid">'+
     items.map(function(b){
-      return '<article class="card" data-baca="'+esc(b.id)+'">'+(b.gambar?'<img src="'+esc(b.gambar)+'" alt="'+esc(b.judul)+'" loading="lazy">':"")+
+      return '<article class="card" data-baca="'+esc(b.id)+'">'+(b.gambar?'<img src="'+esc(b.gambar)+'" alt="'+esc(b.judul)+'" loading="lazy"'+(b.kategori==="Infografis"?' class="img-penuh"':"")+'>':"")+
       '<div class="card-body"><span class="chip navy" style="align-self:flex-start">'+esc(b.kategori)+"</span>"+
       "<h3>"+esc(b.judul)+"</h3><p>"+esc(b.ringkasan||"")+"</p>"+kartuMeta(b)+"</div></article>";
     }).join("")+"</div>";
@@ -466,6 +498,16 @@ function muatInfoHarian(){
 }
 
 function router(){
+  if(location.hash==="#agenda"){
+    el("viewDaftar").style.display="none";
+    el("viewArtikel").hidden=true;el("viewArtikel").innerHTML="";
+    el("viewAgenda").hidden=false;
+    muatAgenda(function(){renderAgenda();});
+    renderNav();
+    window.scrollTo(0,0);
+    return;
+  }
+  el("viewAgenda").hidden=true;
   var m=location.hash.match(/^#baca\/(.+)$/);
   var b=m?cariBerita(decodeURIComponent(m[1])):null;
   if(b){
@@ -518,7 +560,80 @@ function blokGaleri(b){
   return fig?'<div class="galeri">'+fig+"</div>":"";
 }
 
+/* ---------- agenda event (Kalender Event Banyuwangi) ---------- */
+var semuaEvent=[];var agendaDimuat=false;
+function labelRentang(e){
+  var bln=["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","September","Oktober","November","Desember"];
+  function p(iso){var d=new Date(iso+"T00:00:00");return{d:d.getDate(),m:d.getMonth(),y:d.getFullYear()};}
+  var a=p(e.mulai),b=p(e.selesai||e.mulai);
+  if(e.mulai===(e.selesai||e.mulai))return a.d+" "+bln[a.m]+" "+a.y;
+  if(a.m===b.m&&a.y===b.y)return a.d+"-"+b.d+" "+bln[a.m]+" "+a.y;
+  return a.d+" "+bln[a.m]+" "+a.y+" - "+b.d+" "+bln[b.m]+" "+b.y;
+}
+function statusEvent(e){
+  var now=new Date();var tgl=new Date(now.getFullYear(),now.getMonth(),now.getDate());
+  var a=new Date(e.mulai+"T00:00:00");var b=new Date((e.selesai||e.mulai)+"T00:00:00");
+  if(tgl>b)return{teks:"Sudah Lewat",kelas:"lewat"};
+  if(tgl>=a&&tgl<=b)return{teks:"Sedang Berlangsung",kelas:"jalan"};
+  var sisa=Math.round((a-tgl)/86400000);
+  if(sisa===1)return{teks:"Besok",kelas:"dekat"};
+  return{teks:sisa+" Hari Lagi",kelas:""};
+}
+function tautanEvent(e){return e.artikel?("#baca/"+encodeURIComponent(e.artikel)):"#baca/kalender-event-banyuwangi-sisa-2026";}
+function muatAgenda(cb){
+  if(agendaDimuat){if(cb)cb();return;}
+  fetch("agenda.json?ts="+Date.now()).then(function(r){
+    if(!r.ok)throw new Error("HTTP "+r.status);
+    return r.json();
+  }).then(function(j){
+    semuaEvent=(j&&j.event)?j.event:[];
+    agendaDimuat=true;
+    renderAgendaTeaser();
+    if(cb)cb();
+  }).catch(function(){if(cb)cb();});
+}
+function renderAgenda(){
+  var v=el("viewAgenda");if(!v)return;
+  var ev=semuaEvent.slice().sort(function(a,b){return String(a.mulai).localeCompare(String(b.mulai));});
+  if(!ev.length){v.innerHTML='<div class="errorbox">Kalender event belum bisa dimuat. Coba muat ulang halaman ini sebentar lagi.</div>';return;}
+  v.innerHTML='<h2 class="sec-title">Kalender Event Banyuwangi</h2>'+
+    '<p class="agenda-note">Agenda resmi Banyuwangi Attraction 2026 untuk sisa tahun ini. Setiap event dilengkapi poster dan beritanya. Jadwal dapat berubah mengikuti pengumuman penyelenggara.</p>'+
+    '<div class="agenda-grid">'+ev.map(function(e){
+      var st=statusEvent(e);
+      return '<article class="agenda-card'+(st.kelas==="lewat"?" lewat":"")+'">'+
+      '<a href="'+tautanEvent(e)+'"><img src="'+esc(e.poster)+'" alt="'+esc(e.nama)+'" loading="lazy"></a>'+
+      '<div class="agenda-body"><span class="agenda-status '+st.kelas+'">'+st.teks+"</span>"+
+      "<h3>"+esc(e.nama)+"</h3>"+
+      '<div class="agenda-meta">'+esc(labelRentang(e))+"</div>"+
+      '<div class="agenda-meta">'+esc(e.tempat||"Banyuwangi")+"</div>"+
+      (e.keterangan?"<p>"+esc(e.keterangan)+"</p>":"")+
+      '<a class="btn btn-red" href="'+tautanEvent(e)+'">Baca Beritanya</a></div></article>';
+    }).join("")+"</div>"+
+    '<p style="margin-top:1.2rem"><button class="btn" type="button" id="btnAgendaKembali">&larr; Kembali ke daftar berita</button></p>';
+  var kb=el("btnAgendaKembali");
+  if(kb)kb.addEventListener("click",function(){location.hash="";});
+}
+function renderAgendaTeaser(){
+  var wrap=el("agendaTeaserWrap");if(!wrap)return;
+  if(kategoriAktif!=="Semua"||kataCari||!semuaEvent.length){wrap.innerHTML="";return;}
+  var now=new Date();var tgl=new Date(now.getFullYear(),now.getMonth(),now.getDate());
+  var ev=semuaEvent.filter(function(e){return new Date((e.selesai||e.mulai)+"T00:00:00")>=tgl;})
+    .sort(function(a,b){return String(a.mulai).localeCompare(String(b.mulai));}).slice(0,3);
+  if(!ev.length){wrap.innerHTML="";return;}
+  wrap.innerHTML='<h2 class="sec-title">Agenda Event Terdekat</h2><div class="agenda-teaser">'+
+    ev.map(function(e){
+      var st=statusEvent(e);
+      return '<div class="agenda-mini" data-agenda="1"><img src="'+esc(e.poster)+'" alt="">'+
+      '<div><h5>'+esc(e.nama)+'</h5><div class="meta">'+esc(labelRentang(e))+'</div><div class="meta"><b>'+esc(st.teks)+"</b></div></div></div>";
+    }).join("")+"</div>"+
+    '<p style="margin-top:.9rem"><a class="btn" href="#agenda">Lihat Kalender Event Lengkap</a></p>';
+  Array.prototype.forEach.call(wrap.querySelectorAll("[data-agenda]"),function(n){
+    n.addEventListener("click",function(){location.hash="agenda";});
+  });
+}
+
 muat();
+muatAgenda();
 muatInfoHarian();
 if("serviceWorker" in navigator){
   window.addEventListener("load",function(){

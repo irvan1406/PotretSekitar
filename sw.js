@@ -1,4 +1,4 @@
-var CACHE = "potret-sekitar-v1";
+var CACHE = "potret-sekitar-v2";
 var INTI = ["./", "index.html", "logo-potret.png", "manifest.webmanifest", "icon-192.png", "icon-512.png"];
 self.addEventListener("install", function(e){
   e.waitUntil(caches.open(CACHE).then(function(c){ return c.addAll(INTI); }).then(function(){ return self.skipWaiting(); }));
@@ -11,7 +11,7 @@ self.addEventListener("activate", function(e){
 self.addEventListener("fetch", function(e){
   if(e.request.method !== "GET") return;
   var url = e.request.url;
-  if(url.indexOf("berita.json") >= 0){
+  if(url.indexOf("berita.json") >= 0 || url.indexOf("agenda.json") >= 0){
     /* data berita: utamakan jaringan, cadangan cache */
     e.respondWith(fetch(e.request).then(function(r){
       var salin = r.clone();

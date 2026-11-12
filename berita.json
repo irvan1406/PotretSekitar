@@ -1,7 +1,36 @@
 {
-  "terakhirUpdate": "2026-11-12T14:53:50+07:00",
+  "terakhirUpdate": "2026-11-12T15:06:12+07:00",
   "iklan": [],
   "berita": [
+    {
+      "id": "kebakaran-rumah-sumberberas-muncar",
+      "judul": "Rumah Warga di Sumberberas Muncar Terbakar, Warga Berjibaku Padamkan Api",
+      "ringkasan": "Kebakaran melanda sebuah rumah warga di Desa Sumberberas, Kecamatan Muncar, Banyuwangi, Kamis (12/11/2026) siang. Warga sempat berjibaku memadamkan api dengan alat seadanya sebelum petugas pemadam kebakaran tiba di lokasi.",
+      "kategori": "Peristiwa",
+      "tanggal": "2026-11-12T13:00:00+07:00",
+      "gambar": "img-berita/kebakaran-rumah-sumberberas-muncar.jpg",
+      "gambar_keterangan": "Rumah warga di Sumberberas, Muncar, Banyuwangi, yang terbakar pada Kamis (12/11/2026) siang; dinding dan atap rumah menghitam, warga mengevakuasi perabot ke halaman. Foto: Tangkapan layar video warga",
+      "galeri": [
+        {
+          "gambar": "img-berita/kebakaran-rumah-sumberberas-muncar-2.jpg",
+          "keterangan": "Puing dan perabot hangus di dalam rumah yang terbakar di Sumberberas, Muncar, dengan genangan air bekas pemadaman. Foto: Tangkapan layar video warga"
+        },
+        {
+          "gambar": "img-berita/kebakaran-rumah-sumberberas-muncar-3.jpg",
+          "keterangan": "Bagian dalam rumah yang terbakar di Sumberberas, Muncar; dinding menghitam dan atap runtuh. Foto: Tangkapan layar video warga"
+        }
+      ],
+      "unggulan": false,
+      "terbit": true,
+      "isi": [
+        "BANYUWANGI - Kebakaran melanda sebuah rumah warga di Desa Sumberberas, Kecamatan Muncar, Kabupaten Banyuwangi, Kamis (12/11/2026) siang. Asap tebal membubung dari rumah itu dan mengundang perhatian warga sekitar, yang langsung berhamburan ke lokasi kejadian.",
+        "Kebakaran tersebut terjadi sekitar pukul 13.00 WIB. Warga yang pertama kali melihat asap langsung berusaha memadamkan api dengan alat seadanya, termasuk ember air, sambil menunggu petugas pemadam kebakaran tiba. Rekaman video yang beredar memperlihatkan sejumlah warga berdiri di teras rumah tetangga sambil memandang kepulan asap yang membubung dari bangunan di sebelahnya.",
+        "Petugas Dinas Pemadam Kebakaran dan Penyelamatan (Damkarmat) Kabupaten Banyuwangi kemudian tiba di lokasi dan memadamkan api hingga padam. Setelah api dikuasai, kondisi rumah sudah rusak parah: dinding dan atap menghitam, sebagian atap runtuh, dan perabot di dalam rumah hangus terbakar.",
+        "Warga mengevakuasi perabot yang masih bisa diselamatkan ke halaman rumah, antara lain kursi dan meja kayu ukir. Genangan air bekas pemadaman tampak di lantai rumah yang dipenuhi puing kayu hangus dan seng yang melengkung akibat panas.",
+        "Hingga berita ini diturunkan, belum ada laporan korban jiwa maupun korban luka akibat kebakaran tersebut. Identitas pemilik rumah, taksiran kerugian, serta penyebab kebakaran belum diketahui dan masih menunggu keterangan resmi dari pihak terkait.",
+        "Peristiwa ini menjadi kebakaran rumah warga terbaru di Muncar dalam sepekan terakhir, setelah kebakaran rumah di Desa Tapanrejo pada Sabtu (7/11/2026) lalu. Warga diimbau tetap waspada terhadap potensi kebakaran, terutama memeriksa instalasi listrik dan tidak meninggalkan api menyala tanpa pengawasan."
+      ]
+    },
     {
       "id": "satu-malam-seribu-kenangan-luminor-hotel-banyuwangi-hadirkan",
       "judul": "Satu Malam Seribu Kenangan: Luminor Hotel Banyuwangi Hadirkan \"Night Carnival\" Meriah untuk Sambut Tahun Baru 2027",

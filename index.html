@@ -198,6 +198,9 @@ h2,h3,h4{letter-spacing:-.01em}
 .bfill.agenda{aspect-ratio:4/5}
 .bfill.stripimg{height:190px}
 .bfill.sisi-event{height:190px;border-radius:.7rem}
+.side-item.besar{flex-direction:column;gap:.35rem}
+.side-item.besar img{width:100%;height:130px}
+.side-item.besar h5{font-size:.95rem}
 .hero-main::before{content:"";position:absolute;inset:-24px;background-image:var(--bg);background-size:cover;background-position:center;filter:blur(18px) brightness(.7);z-index:0}
 .hero-main>img{z-index:1}
 .hero-shade{z-index:2}
@@ -298,6 +301,7 @@ footer{background:var(--navy);color:#c7d2e4;margin-top:2rem}
         <p style="font-size:.9rem;color:var(--mut)">Portal berita modern yang ditulis dan disunting redaksi dengan bahasa yang jelas dan faktual, agar setiap kabar penting mudah dipahami pembaca.</p>
         <p class="meta" id="infoUpdate" style="margin-top:.6rem"></p>
       </div>
+      <div class="side muncul"><h4>Berita Terbaru</h4><div id="sideBaruBesar"></div></div>
     </aside>
   </div>
   <section id="rubrikWrap" style="margin-top:1.8rem"></section>
@@ -449,7 +453,11 @@ function renderSide(){
   el("sidePopuler").innerHTML=all.slice(0,5).map(function(b,i){
     return '<div class="side-item" data-baca="'+esc(b.id)+'"><div class="side-num">'+(i+1)+"</div><div><h5>"+esc(b.judul)+'</h5><div class="meta">'+esc(semuaKategori(b).join(", "))+" · "+esc(labelTanggal(b.tanggal))+"</div></div></div>";
   }).join("");
+  el("sideBaruBesar").innerHTML=all.slice(0,5).map(function(b){
+    return '<div class="side-item besar" data-baca="'+esc(b.id)+'">'+(b.gambar?'<img src="'+esc(b.gambar)+'" alt="">':"")+"<div><h5>"+esc(b.judul)+'</h5><div class="meta">'+esc(semuaKategori(b).join(", "))+" \u00b7 "+esc(labelTanggal(b.tanggal))+"</div></div></div>";
+  }).join("");
   ikatBaca(el("sideTerbaru"));ikatBaca(el("sidePopuler"));
+  ikatBaca(el("sideBaruBesar"));
 }
 
 /* ---------- baca artikel: halaman penuh via hash (#baca/<id>) ---------- */

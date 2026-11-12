@@ -11,7 +11,7 @@
         "Wisata"
       ],
       "tanggal": "2026-11-12T09:40:00+07:00",
-      "gambar": "img-berita/infografis-dandang-kalibaru-foto.jpg",
+      "gambar": "img-berita/infografis-dandang-kalibaru-kartun.jpg",
       "gambar_keterangan": "Infografis: Potret Sekitar",
       "unggulan": false,
       "terbit": true,
@@ -23,6 +23,10 @@
         "Sejak 2017, potensi kampung ini diangkat lewat Festival Dandang Sewu, ajang promosi yang menampilkan seribu dandang dan beragam peralatan masak karya warga. Bagi pelintas jalur barat Banyuwangi, mampir ke deretan toko Sayangan bisa menjadi cara membawa pulang oleh-oleh yang tidak biasa: bukan makanan, melainkan dandang buatan pengrajin Kalibaru."
       ],
       "galeri": [
+        {
+          "gambar": "img-berita/infografis-dandang-kalibaru-foto.jpg",
+          "keterangan": "Infografis dari foto asli deretan toko Sayangan, Kalibaru Wetan"
+        },
         {
           "gambar": "img-berita/infografis-dandang-kalibaru.jpg",
           "keterangan": "Infografis: Potret Sekitar"

@@ -1,5 +1,5 @@
 {
- "terakhirUpdate": "2026-11-12T09:49:53+07:00",
+ "terakhirUpdate": "2026-11-12T10:04:00+07:00",
  "event": [
   {
    "id": "open-karate-nasional",
@@ -28,7 +28,7 @@
    "selesai": "2026-11-21",
    "tempat": "Banyuwangi",
    "poster": "img-berita/agenda-beach-jazz-banyuwangi-v2.jpg",
-   "artikel": null,
+   "artikel": "beach-jazz-banyuwangi-2026",
    "keterangan": "Festival jazz tepi pantai tahunan Banyuwangi."
   },
   {
@@ -38,7 +38,7 @@
    "selesai": "2026-11-28",
    "tempat": "Desa Kaliploso, Banyuwangi",
    "poster": "img-berita/agenda-sate-kaliploso-nusantara-v2.jpg",
-   "artikel": null,
+   "artikel": "sate-kaliploso-nusantara-2026",
    "keterangan": "Festival kuliner sate di Desa Kaliploso."
   },
   {
@@ -48,7 +48,7 @@
    "selesai": "2026-11-28",
    "tempat": "Banyuwangi",
    "poster": "img-berita/agenda-padhang-ulanan-barong-ider-bumi-v2.jpg",
-   "artikel": null,
+   "artikel": "padhang-ulanan-barong-ider-bumi-2026",
    "keterangan": "Ritual Barong Ider Bumi dalam rangkaian Padhang Ulanan."
   },
   {
@@ -58,7 +58,7 @@
    "selesai": "2026-12-05",
    "tempat": "Banyuwangi",
    "poster": "img-berita/agenda-jebeng-thulik-banyuwangi-v2.jpg",
-   "artikel": null,
+   "artikel": "jebeng-thulik-banyuwangi-2026",
    "keterangan": "Ajang pemilihan duta wisata Jebeng Thulik Banyuwangi."
   },
   {
@@ -68,7 +68,7 @@
    "selesai": "2026-12-05",
    "tempat": "Banyuwangi",
    "poster": "img-berita/agenda-kita-bisa-v2.jpg",
-   "artikel": null,
+   "artikel": "kita-bisa-banyuwangi-2026",
    "keterangan": "Agenda Banyuwangi Attraction 2026."
   },
   {
@@ -78,7 +78,7 @@
    "selesai": "2026-12-12",
    "tempat": "Bayu, Banyuwangi",
    "poster": "img-berita/agenda-padhang-ulanan-puputan-bayu-v2.jpg",
-   "artikel": null,
+   "artikel": "padhang-ulanan-puputan-bayu-2026",
    "keterangan": "Padhang Ulanan edisi Puputan Bayu."
   },
   {
@@ -88,7 +88,7 @@
    "selesai": "2026-12-12",
    "tempat": "Kampung Mandar, Banyuwangi",
    "poster": "img-berita/agenda-petik-laut-mandar-v2.jpg",
-   "artikel": null,
+   "artikel": "petik-laut-mandar-2026",
    "keterangan": "Ritual syukur nelayan Kampung Mandar di pesisir Banyuwangi."
   },
   {
@@ -98,7 +98,7 @@
    "selesai": "2026-12-13",
    "tempat": "Banyuwangi",
    "poster": "img-berita/agenda-kontes-burung-berkicau-v2.jpg",
-   "artikel": null,
+   "artikel": "kontes-burung-berkicau-banyuwangi-2026",
    "keterangan": "Kontes burung berkicau dalam kalender Banyuwangi Attraction 2026."
   },
   {
@@ -118,7 +118,7 @@
    "selesai": "2026-12-28",
    "tempat": "Banyuwangi",
    "poster": "img-berita/agenda-pameran-lukisan-harjaba-v2.jpg",
-   "artikel": null,
+   "artikel": "pameran-lukisan-harjaba-2026",
    "keterangan": "Pameran lukisan dalam rangkaian Hari Jadi Banyuwangi."
   },
   {
@@ -128,7 +128,7 @@
    "selesai": "2026-12-26",
    "tempat": "Banyuwangi",
    "poster": "img-berita/agenda-gandrung-dari-masa-ke-masa-v2.jpg",
-   "artikel": null,
+   "artikel": "gandrung-dari-masa-ke-masa-2026",
    "keterangan": "Pergelaran perjalanan Tari Gandrung dari masa ke masa."
   },
   {
@@ -138,7 +138,7 @@
    "selesai": "2026-12-31",
    "tempat": "Banyuwangi",
    "poster": "img-berita/agenda-refleksi-akhir-tahun-v2.jpg",
-   "artikel": null,
+   "artikel": "refleksi-akhir-tahun-banyuwangi-2026",
    "keterangan": "Agenda penutup tahun 2026 di Banyuwangi."
   }
  ]

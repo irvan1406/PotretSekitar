@@ -1,5 +1,5 @@
 {
- "terakhirUpdate": "2026-11-12T09:34:00+07:00",
+ "terakhirUpdate": "2026-11-12T09:40:00+07:00",
  "iklan": [],
  "berita": [
   {
@@ -7,6 +7,9 @@
    "judul": "Open Karate Nasional Digelar 13-16 November 2026 di Banyuwangi",
    "ringkasan": "Banyuwangi menjadi tuan rumah Open Karate Nasional pada 13-16 November 2026. Kejuaraan ini tercantum dalam kalender resmi Banyuwangi Attraction 2026 bersama 86 atraksi lain sepanjang tahun.",
    "kategori": "Olahraga",
+   "kategori_lain": [
+    "Infografis"
+   ],
    "tanggal": "2026-11-12T09:34:00+07:00",
    "gambar": "img-berita/infografis-open-karate-nasional.jpg",
    "gambar_keterangan": "Infografis: Potret Sekitar",

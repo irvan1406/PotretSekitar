@@ -1,4 +1,4 @@
-var CACHE = "potret-sekitar-v2";
+var CACHE = "potret-sekitar-v3";
 var INTI = ["./", "index.html", "logo-potret.png", "manifest.webmanifest", "icon-192.png", "icon-512.png"];
 self.addEventListener("install", function(e){
   e.waitUntil(caches.open(CACHE).then(function(c){ return c.addAll(INTI); }).then(function(){ return self.skipWaiting(); }));

@@ -129,6 +129,8 @@ footer{color:var(--mut);font-size:.85rem;text-align:center;padding:1.2rem 1rem 2
           <label for="fKategori">Kategori *</label>
           <input type="text" id="fKategori" list="listKategori" required placeholder="mis. Nasional">
           <datalist id="listKategori"></datalist>
+          <label for="fKategoriLain" style="margin-top:.5rem">Kategori Lain (opsional)</label>
+          <input type="text" id="fKategoriLain" placeholder="mis. Infografis">
         </div>
       </div>
       <label for="fRingkasan">Ringkasan *</label>
@@ -526,6 +528,7 @@ function editBerita(id){
   el("fId").value=b.id;
   el("fJudul").value=b.judul||"";
   el("fKategori").value=b.kategori||"";
+  el("fKategoriLain").value=Array.isArray(b.kategori_lain)?b.kategori_lain.join(", "):"";
   el("fRingkasan").value=b.ringkasan||"";
   el("fIsi").value=Array.isArray(b.isi)?b.isi.join("\n\n"):(b.isi||"");
   el("fGambarUrl").value=(b.gambar&&/^https?:/i.test(b.gambar))?b.gambar:"";
@@ -572,6 +575,8 @@ el("formBerita").addEventListener("submit",function(ev){
   if(gambarUrl)berita.gambar=gambarUrl;
   else if(lama)berita.gambar=lama.gambar||"";
   if(lama&&Array.isArray(lama.galeri)&&lama.galeri.length)berita.galeri=lama.galeri;
+  var katLain=el("fKategoriLain").value.split(",").map(function(x){return x.trim();}).filter(function(x){return x&&x!==berita.kategori;});
+  if(katLain.length)berita.kategori_lain=katLain;
   var btn=el("btnTerbitBerita");btn.disabled=true;btn.textContent="Menyimpan…";
   function gagal(err){btn.disabled=false;btn.textContent="Simpan & Terbitkan";setStatus("statusBerita",String(err.message||err),"err");}
   function lanjut(){

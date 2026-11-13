@@ -1,7 +1,32 @@
 {
-  "terakhirUpdate": "2026-11-13T22:55:00+07:00",
+  "terakhirUpdate": "2026-11-13T23:18:28+07:00",
   "iklan": [],
   "berita": [
+    {
+      "id": "kebakaran-lahan-kertosari-banyuwangi",
+      "judul": "Kebakaran Lahan di Kertosari Banyuwangi, Damkar Bergerak Cepat di Dini Hari",
+      "ringkasan": "Kebakaran melanda lahan kosong di kawasan Pakem, Kelurahan Kertosari, Kecamatan Banyuwangi, Jumat (13/11/2026) dini hari. Api yang melalap vegetasi dan rumpun pisang dekat permukiman warga itu berhasil dipadamkan petugas Damkarmat setelah menerima laporan warga.",
+      "kategori": "Peristiwa",
+      "tanggal": "2026-11-13T01:43:00+07:00",
+      "gambar": "img-berita/kebakaran-lahan-kertosari-banyuwangi.jpg",
+      "gambar_keterangan": "Kobaran api melalap vegetasi dan rumpun pisang di lahan kosong kawasan Pakem, Kelurahan Kertosari, Banyuwangi, Jumat (13/11/2026) dini hari. Foto: Tangkapan layar video warga",
+      "galeri": [
+        {
+          "gambar": "img-berita/kebakaran-lahan-kertosari-banyuwangi-2.jpg",
+          "keterangan": "Petugas Damkarmat Banyuwangi menyemprotkan air ke titik api di lahan Kertosari, Jumat (13/11/2026) dini hari. Foto: Tangkapan layar video Damkarmat Banyuwangi"
+        }
+      ],
+      "unggulan": false,
+      "terbit": true,
+      "isi": [
+        "BANYUWANGI - Kobaran api melalap lahan kosong di kawasan Pakem, Kelurahan Kertosari, Kecamatan Banyuwangi, Jumat (13/11/2026) dini hari. Api yang membakar vegetasi dan rumpun pisang itu terlihat membesar di tengah gelapnya malam, tak jauh dari rumah warga, sebelum akhirnya berhasil dipadamkan petugas pemadam kebakaran.",
+        "Kebakaran tersebut diketahui sekitar pukul 01.43 WIB. Warga yang melihat api membesar di lahan itu segera melaporkannya kepada petugas. Rekaman video yang beredar memperlihatkan lidah api menjilat semak dan rumpun pisang, sementara asap tebal membubung ke langit malam.",
+        "Petugas Dinas Pemadam Kebakaran dan Penyelamatan (Damkarmat) Kabupaten Banyuwangi yang menerima laporan warga langsung bergerak ke lokasi. Sejumlah petugas dengan helm dan pakaian pelindung menyemprotkan air ke titik api, baik dari atas mobil pemadam maupun dari darat, hingga api berhasil dikuasai.",
+        "Lokasi kebakaran berada di kawasan Pakem, Kelurahan Kertosari, tak jauh dari jalan menuju Pantai Savana Beach. Dalam rekaman video warga, api terlihat cukup besar dan mengeluarkan suara gemuruh, sementara sebuah rumah warga tampak berada tak jauh dari lokasi kebakaran.",
+        "Hingga berita ini diturunkan, belum ada laporan korban jiwa maupun korban luka akibat kebakaran tersebut. Luas lahan yang terbakar serta penyebab munculnya api juga belum diketahui dan masih menunggu keterangan resmi dari pihak terkait.",
+        "Peristiwa ini menjadi pengingat bagi warga untuk tetap waspada terhadap potensi kebakaran lahan, sebab vegetasi kering mudah tersulut api. Secara nasional, BNPB mencatat 521 titik api kebakaran hutan dan lahan masih terdeteksi di sejumlah wilayah Indonesia hingga Kamis (12/11/2026). Warga diimbau tidak membakar sampah atau vegetasi sembarangan dan segera melapor kepada petugas bila melihat titik api."
+      ]
+    },
     {
       "id": "pengukuhan-pengurus-kadin-banyuwangi-2025-2030",
       "judul": "Pengurus Kadin Banyuwangi 2025-2030 Dikukuhkan, Bupati Ipuk: Investasi Harus Serap Tenaga Kerja dan Perkuat UMKM",

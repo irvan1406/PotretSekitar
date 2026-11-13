@@ -486,7 +486,7 @@ function renderArtikel(b){
   });
   var tombolSalin=el("btnSalinTautan");
   if(tombolSalin)tombolSalin.addEventListener("click",function(){
-    var tautan=location.origin+location.pathname+"#baca/"+encodeURIComponent(b.id);
+    var tautan=location.origin+"/baca/"+encodeURIComponent(b.id)+"/";
     function selesai(){tombolSalin.textContent="Tautan Tersalin";setTimeout(function(){tombolSalin.textContent="Salin Tautan";},2200);}
     if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(tautan).then(selesai).catch(selesai);}
     else{var ta=document.createElement("textarea");ta.value=tautan;document.body.appendChild(ta);ta.select();try{document.execCommand("copy");}catch(e){}document.body.removeChild(ta);selesai();}
@@ -494,7 +494,7 @@ function renderArtikel(b){
 }
 /* ---------- bagikan ---------- */
 function blokBagikan(b){
-  var tautan=location.origin+location.pathname+"#baca/"+encodeURIComponent(b.id);
+  var tautan=location.origin+"/baca/"+encodeURIComponent(b.id)+"/";
   var teks=encodeURIComponent(b.judul+" — baca di Potret Sekitar: "+tautan);
   var u=encodeURIComponent(tautan);
   var j=encodeURIComponent(b.judul);

@@ -1,5 +1,5 @@
 {
- "terakhirUpdate": "2026-11-14T11:02:54.328736Z",
+ "terakhirUpdate": "2026-11-14T13:18:46.610054Z",
  "iklan": [
   {
    "id": "jasa-seserahan-dan-mahar-terbaik-di-banyuwangi",
@@ -11,6 +11,25 @@
   }
  ],
  "berita": [
+  {
+   "id": "pemotor-tewas-kecelakaan-tulungrejo-glenmore",
+   "judul": "Pengendara Vario Tewas Usai Kecelakaan dengan Truk di Tulungrejo Glenmore",
+   "ringkasan": "Pengendara Honda Vario bernama Deny Ally Imron meninggal dunia usai kecelakaan dengan sebuah truk di timur Masjid Tulungrejo, Glenmore, Sabtu (14/11/2026) sekitar pukul 10.30 WIB. Polisi menyebut sepeda motor korban diduga oleng ke kanan hingga menabrak truk.",
+   "kategori": "Peristiwa",
+   "tanggal": "2026-11-14T14:14:00+07:00",
+   "gambar": "img-berita/pemotor-tewas-kecelakaan-tulungrejo-glenmore.jpg",
+   "gambar_keterangan": "Petugas kepolisian memeriksa sepeda motor Honda Vario yang ringsek usai kecelakaan di timur Masjid Tulungrejo, Glenmore, Sabtu (14/11/2026). Foto: tangkapan layar video Facebook Lintas Banyuwangi",
+   "unggulan": false,
+   "terbit": true,
+   "isi": [
+    "BANYUWANGI - Pengendara sepeda motor Honda Vario yang terlibat kecelakaan lalu lintas di timur Masjid Tulungrejo, Desa Tulungrejo, Kecamatan Glenmore, Kabupaten Banyuwangi, Sabtu (14/11/2026) sekitar pukul 10.30 WIB, meninggal dunia. Korban diketahui bernama Deny Ally Imron.",
+    "Kabar duka itu menyusul laporan lanjutan yang beredar pada Sabtu siang, beberapa jam setelah kecelakaan terjadi. Dalam laporan itu, korban dinyatakan tutup usia setelah terlibat tabrakan dengan sebuah truk di ruas Jalan Raya Jember-Banyuwangi tersebut.",
+    "Menurut kronologi yang beredar dari pihak kepolisian, sepeda motor Honda Vario yang dikendarai korban diduga oleng ke kanan hingga menabrak truk yang melintas di jalur itu. Benturan keras membuat sepeda motor korban ringsek dan korban tergeletak di tengah jalan.",
+    "Rekaman video di lokasi memperlihatkan petugas kepolisian memeriksa sepeda motor korban yang rusak parah di tepi jalan, sementara warga berkumpul di sekitar titik kejadian. Petugas medis kemudian mengevakuasi korban dengan ambulans, dan arus lalu lintas di ruas jalan itu sempat tersendat karena kendaraan dari kedua arah melintas pelan melewati lokasi kejadian.",
+    "Kecelakaan ini sebelumnya sempat diberitakan saat kondisi korban belum diketahui. Sejumlah kendaraan, termasuk sebuah mobil Toyota Avanza putih dan sebuah truk boks putih, terlihat berhenti di dekat lokasi tak lama setelah kejadian, dan warga sekitar berusaha menolong korban.",
+    "Hingga berita ini diterbitkan, keterangan resmi lebih lanjut dari pihak kepolisian mengenai identitas lengkap korban dan hasil penanganan perkara masih menunggu. Peristiwa ini menjadi pengingat bagi para pengendara agar lebih berhati-hati saat melintas di jalur Jember-Banyuwangi, terutama di kawasan permukiman seperti Tulungrejo, dengan menjaga kecepatan dan jarak aman."
+   ]
+  },
   {
    "id": "antrean-ketapang-14-km-polisi-60-personel",
    "judul": "Antrean Ketapang Tembus 14 Kilometer, Polisi Kerahkan 60 Personel dan Sopir Logistik Minta Tambah Kapasitas",

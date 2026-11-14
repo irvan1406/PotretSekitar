@@ -35,6 +35,7 @@ TEMPLATE = """<!DOCTYPE html>
 <meta property="og:title" content="{judul}">
 <meta property="og:description" content="{ringkasan}">
 <meta property="og:url" content="{url_share}">
+<link rel="canonical" href="{url_share}">
 <meta property="og:image" content="{gambar}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{judul}">
@@ -94,5 +95,29 @@ def main():
     return 0
 
 
+
+
+def buat_sitemap():
+    """Tulis sitemap.xml: beranda + semua halaman baca artikel terbit."""
+    import json as _json
+    from xml.sax.saxutils import escape as _esc
+    data = _json.load(open(os.path.join(ROOT, "berita.json"), encoding="utf-8"))
+    upd = str(data.get("terakhirUpdate", ""))[:10]
+    baris = ['<?xml version="1.0" encoding="UTF-8"?>',
+             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+             f'  <url><loc>https://potretsekitar.my.id/</loc><lastmod>{upd}</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>']
+    arts = [a for a in data.get("berita", []) if a.get("terbit")]
+    arts.sort(key=lambda a: a.get("tanggal", ""), reverse=True)
+    for a in arts:
+        tgl = str(a.get("tanggal", upd))[:10]
+        baris.append(f'  <url><loc>https://potretsekitar.my.id/baca/{_esc(a["id"])}/</loc><lastmod>{tgl}</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>')
+    baris.append('</urlset>')
+    with open(os.path.join(ROOT, "sitemap.xml"), "w", encoding="utf-8") as f:
+        f.write("\n".join(baris) + "\n")
+    print(f"Sitemap ditulis: {1 + len(arts)} URL.")
+
 if __name__ == "__main__":
-    sys.exit(main())
+    _kode = main()
+    if _kode == 0:
+        buat_sitemap()
+    sys.exit(_kode)

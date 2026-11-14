@@ -1,5 +1,5 @@
 {
-  "terakhirUpdate": "2026-11-14T10:18:50.860Z",
+  "terakhirUpdate": "2026-11-14T11:02:54.328736Z",
   "iklan": [
     {
       "id": "jasa-seserahan-dan-mahar-terbaik-di-banyuwangi",
@@ -11,6 +11,32 @@
     }
   ],
   "berita": [
+    {
+      "id": "teba-mega-merawat-pertiwi-banyuwangi",
+      "judul": "4.000 Peserta Ikuti Gerakan Teba Mega Merawat Pertiwi di 12 Titik Banyuwangi",
+      "ringkasan": "Sebanyak 4.000 peserta mengikuti Gerakan Teba Mega Merawat Pertiwi yang digelar serentak di 12 titik di Banyuwangi, Sabtu (14/11/2026). Di RTH Singotrunan, Bupati Ipuk Fiestiandani bersama Ketua DPC PDI Perjuangan Ana Aniati dan Wabup Mujiono ikut memilah sampah dan mensosialisasikan lubang kompos Teba.",
+      "kategori": "Daerah",
+      "tanggal": "2026-11-14T00:00:00+07:00",
+      "gambar": "img-berita/teba-mega-merawat-pertiwi.jpg",
+      "gambar_keterangan": "Peserta Gerakan Teba Mega Merawat Pertiwi berfoto bersama di sekitar lubang kompos Teba di RTH Singotrunan, Banyuwangi, Sabtu (14/11/2026). Foto: Indosnap",
+      "galeri": [
+        {
+          "gambar": "img-berita/teba-mega-merawat-pertiwi-2.jpg",
+          "keterangan": "Peserta memilah sampah organik dan anorganik ke dalam ember dan bak penampungan saat Gerakan Teba Mega Merawat Pertiwi di RTH Singotrunan, Banyuwangi, Sabtu (14/11/2026). Foto: Indosnap"
+        }
+      ],
+      "unggulan": false,
+      "terbit": true,
+      "isi": [
+        "BANYUWANGI - Sebanyak 4.000 peserta mengikuti Gerakan Merawat Pertiwi bertajuk Teba Mega Merawat Pertiwi yang digelar serentak di 12 titik di Kabupaten Banyuwangi, Sabtu (14/11/2026). Gerakan ini menjadi bagian dari peringatan Hari Peduli Sampah Nasional PDI Perjuangan dan mengajak masyarakat memilah serta mengelola sampah dari sumbernya.",
+        "Salah satu titik kegiatan berlangsung di Ruang Terbuka Hijau (RTH) Singotrunan, Kecamatan Banyuwangi. Kegiatan diawali dengan Senam Indonesia Cinta Tanah Air (SICITA), kemudian dilanjutkan dengan aksi bersih-bersih lingkungan, pemilahan sampah organik dan anorganik, serta edukasi pemanfaatan sampah melalui metode Teba.",
+        "Hadir langsung dalam kegiatan di RTH Singotrunan, Ketua DPC PDI Perjuangan Banyuwangi Dr. Ana Aniati, Bupati Banyuwangi Ipuk Fiestiandani, serta Wakil Bupati Banyuwangi Mujiono. Selain pengurus, fraksi, dan kader partai, sejumlah elemen masyarakat juga turut ambil bagian dalam gotong royong menjaga lingkungan itu.",
+        "Teba adalah lubang yang disiapkan untuk menampung sampah organik yang sudah dipilah. Sampah organik yang dimasukkan ke dalam lubang Teba diharapkan terurai dan menghasilkan pupuk kompos yang bisa dimanfaatkan masyarakat. Sebanyak 24 Teba dibangun oleh DPC dan Fraksi PDI Perjuangan Banyuwangi, tidak hanya di ruang terbuka hijau, tetapi juga menyasar lingkungan permukiman dan sejumlah sekolah.",
+        "Ketua DPC PDI Perjuangan Banyuwangi, Dr. Ana Aniati, menyampaikan gerakan ini merupakan instruksi Ketua Umum PDI Perjuangan Megawati Soekarnoputri sebagai upaya menjaga kelestarian alam dan lingkungan hidup. Ia berharap Teba yang sudah dibangun benar-benar menghasilkan pupuk yang dimanfaatkan warga di lingkungannya masing-masing, sehingga sampah tidak hanya dibuang tetapi bisa diolah dan memberi manfaat.",
+        "Sementara itu, Bupati Banyuwangi Ipuk Fiestiandani menyatakan kesiapannya mendukung dan mensukseskan instruksi tersebut bersama DPC. Menurutnya, pembangunan Teba tidak boleh berhenti pada penyediaan sarana fisik semata, melainkan harus disertai edukasi dan sosialisasi berkelanjutan agar masyarakat memahami pentingnya memilah sampah sejak dari rumah.",
+        "Ipuk menambahkan, pihaknya juga membantu warga membuat Teba skala rumah tangga menggunakan ember, sehingga sampah organik bisa diolah menjadi kompos, sedangkan sampah anorganik yang masih bernilai ekonomi dapat disalurkan melalui bank sampah, termasuk program Banyuwangi Hijau. Secara nasional, kegiatan serupa digelar serentak di berbagai daerah dan pencatatan 3.535 Teba masuk rekor Museum Rekor Dunia Indonesia (MURI)."
+      ]
+    },
     {
       "id": "kebakaran-radio-arrohman-srono",
       "judul": "Diduga Puntung Rokok, Studio Radio Arrohman FM di Srono Terbakar Dini Hari",

@@ -1,7 +1,36 @@
 {
- "terakhirUpdate": "2026-11-14T12:40:00+07:00",
+ "terakhirUpdate": "2026-11-14T14:56:00+07:00",
  "iklan": [],
  "berita": [
+  {
+   "id": "kebakaran-radio-arrohman-srono",
+   "judul": "Diduga Puntung Rokok, Studio Radio Arrohman FM di Srono Terbakar Dini Hari",
+   "ringkasan": "Studio Radio Arrohman FM di Dusun Krajan Kulon, Desa Wonosobo, Kecamatan Srono, terbakar pada Sabtu (14/11/2026) sekitar pukul 02.35 WIB. Api diduga berasal dari puntung rokok, perlengkapan siaran senilai belasan juta rupiah hangus, dan api baru padam sekitar pukul 03.12 WIB.",
+   "kategori": "Peristiwa",
+   "tanggal": "2026-11-14T02:35:00+07:00",
+   "gambar": "img-berita/kebakaran-radio-arrohman-srono.jpg",
+   "gambar_keterangan": "Dinding studio Radio Arrohman FM di Srono menghitam dan jendela rusak setelah kebakaran pada Sabtu (14/11/2026) dini hari. Foto: tangkapan layar video Humas Damkarmat Banyuwangi",
+   "galeri": [
+    {
+     "gambar": "img-berita/kebakaran-radio-arrohman-srono-2.jpg",
+     "keterangan": "Poster kegiatan di dinding studio Radio Arrohman FM, Srono, yang ikut terdampak kebakaran, Sabtu (14/11/2026). Foto: tangkapan layar video Humas Damkarmat Banyuwangi"
+    },
+    {
+     "gambar": "img-berita/kebakaran-radio-arrohman-srono-3.jpg",
+     "keterangan": "Petugas pemadam kebakaran memeriksa ruangan studio Radio Arrohman FM yang masih dipenuhi asap usai kebakaran di Srono, Sabtu (14/11/2026). Foto: tangkapan layar video Humas Damkarmat Banyuwangi"
+    }
+   ],
+   "unggulan": false,
+   "terbit": true,
+   "isi": [
+    "BANYUWANGI - Studio Radio Arrohman FM di Dusun Krajan Kulon, Desa Wonosobo, Kecamatan Srono, Kabupaten Banyuwangi, terbakar pada Sabtu (14/11/2026) sekitar pukul 02.35 WIB. Api diduga berasal dari puntung rokok yang masih menyisakan bara, dan perlengkapan siaran di dalam studio hangus dengan kerugian ditaksir belasan juta rupiah.",
+    "Api membakar ruang studio hingga dindingnya menghitam dan catnya mengelupas. Jendela ruangan rusak dan gorden hijaunya sobek, sementara meja siaran beserta komputer, monitor, keyboard, dan headphone tertutup jelaga dan air sisa pemadaman menggenangi lantai.",
+    "Petugas pemadam kebakaran kemudian melakukan pemadaman dan pendinginan di lokasi. Api berhasil dipadamkan sekitar pukul 03.12 WIB, kurang dari satu jam setelah kebakaran pertama kali terjadi.",
+    "Rekaman video yang beredar di media sosial memperlihatkan kondisi studio setelah api padam. Dinding kuning ruangan tampak menghitam di sejumlah bagian, dan sebuah poster kegiatan senam dan arisan di Radio Arrohman FM masih terpajang di dinding yang ikut terdampak asap.",
+    "Hingga berita ini diterbitkan, tidak ada laporan korban jiwa maupun luka-luka dalam peristiwa ini. Dugaan awal mengarah pada puntung rokok, dan penyebab pasti kebakaran masih menunggu pemeriksaan lebih lanjut.",
+    "Peristiwa ini menjadi pengingat agar puntung rokok dipastikan benar-benar padam sebelum dibuang, terutama di dalam ruangan yang berisi peralatan elektronik dan bahan mudah terbakar."
+   ]
+  },
   {
    "id": "kecelakaan-pemotor-tulungrejo-glenmore",
    "judul": "Pemotor Tergeletak di Tengah Jalan Usai Kecelakaan di Timur Masjid Tulungrejo Glenmore",

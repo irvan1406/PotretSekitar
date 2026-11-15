@@ -1,5 +1,5 @@
 {
- "terakhirUpdate": "2026-11-15T11:23:06.000Z",
+ "terakhirUpdate": "2026-11-15T11:37:03.000Z",
  "iklan": [
   {
    "id": "jasa-seserahan-dan-mahar-terbaik-di-banyuwangi",
@@ -11,6 +11,26 @@
   }
  ],
  "berita": [
+  {
+   "id": "beasiswa-afirmasi-1268-murid-banyuwangi",
+   "judul": "Beasiswa Afirmasi Rp1 Juta untuk 1.268 Murid Banyuwangi, 175 Anak Putus Sekolah Ikut Dibantu",
+   "ringkasan": "Gubernur Jawa Timur Khofifah Indar Parawansa menyerahkan beasiswa afirmasi Rp1 juta kepada 1.268 murid di Banyuwangi, Minggu (15/11/2026). Pemprov Jatim juga membantu 175 anak putus sekolah kembali bersekolah dan 25 alumni sekolah swasta yang ijazahnya tertahan karena tunggakan biaya.",
+   "kategori": "Daerah",
+   "tanggal": "2026-11-15T00:00:00+07:00",
+   "gambar": "img-berita/beasiswa-afirmasi-1268-murid-banyuwangi.jpg",
+   "gambar_keterangan": "Suasana kunjungan Gubernur Jawa Timur Khofifah Indar Parawansa ke SMAN 2 Taruna Bhayangkara, Banyuwangi, Minggu (15/11/2026). Foto: WartaTransparansi",
+   "unggulan": false,
+   "terbit": true,
+   "isi": [
+    "BANYUWANGI - Sebanyak 1.268 murid di Banyuwangi menerima beasiswa afirmasi sebesar Rp1 juta dari Pemerintah Provinsi Jawa Timur. Bantuan pendidikan itu diserahkan langsung oleh Gubernur Jawa Timur Khofifah Indar Parawansa di SMAN 2 Taruna Bhayangkara, Kabupaten Banyuwangi, Minggu (15/11/2026).",
+    "Beasiswa tersebut merupakan bagian dari program Jatim Cerdas. Ribuan murid penerima kali ini adalah penerima tambahan melalui perubahan APBD 2026, melengkapi 112 murid jenjang SMA, SMK, dan SLB yang sudah lebih dulu menerima bantuan serupa melalui APBD murni. Dengan tambahan ini, total penerima beasiswa afirmasi di Banyuwangi mencapai 1.380 murid, dan masing-masing memperoleh Rp1 juta.",
+    "Tidak hanya murid yang masih aktif bersekolah, Pemprov Jatim juga menyasar 175 anak yang teridentifikasi putus sekolah. Mereka mendapat beasiswa afirmasi Rp1 juta, dan bagi yang melanjutkan pendidikan di sekolah swasta, uang SPP setiap bulan akan dibayarkan oleh Pemprov Jatim.",
+    "Bantuan serupa juga diberikan kepada 25 alumni sekolah swasta yang belum bisa mengambil ijazahnya karena masih menunggak biaya pendidikan. Besaran bantuan disesuaikan dengan tunggakan masing-masing alumni, dan dari hasil penelusuran ada alumni yang tunggakan SPP-nya mencapai hingga tiga tahun. Dengan bantuan ini, ijazah mereka diharapkan segera bisa diambil dan digunakan untuk melanjutkan pendidikan maupun mencari pekerjaan.",
+    "Khofifah menegaskan perluasan penerima beasiswa afirmasi merupakan komitmen Pemprov Jatim agar keterbatasan ekonomi tidak menghalangi anak-anak mengakses pendidikan. Ia menyebut, setelah perubahan APBD, penerima beasiswa afirmasi di Banyuwangi bertambah menjadi lebih dari seribu murid, dan masing-masing menerima Rp1 juta.",
+    "Pendataan penerima bantuan dilakukan Dinas Pendidikan Provinsi Jawa Timur bersama Dinas Sosial Kabupaten Banyuwangi. Khofifah meminta pendataan dilakukan secara akurat dengan koordinasi lintas sektor, agar anak-anak yang membutuhkan bantuan dapat teridentifikasi dan memperoleh dukungan sesuai persoalan yang dihadapi.",
+    "Kepala Dinas Pendidikan Provinsi Jawa Timur Aries Agung Paewai mengapresiasi perluasan bantuan tersebut. Menurutnya, program Jatim Cerdas kini tidak hanya menyasar murid yang masih aktif bersekolah, tetapi juga anak putus sekolah dan alumni sekolah swasta yang terkendala biaya untuk mengambil ijazah, sehingga mereka tetap berkesempatan melanjutkan masa depan."
+   ]
+  },
   {
    "id": "launching-sma-taruna-banyuwangi-2027-2028",
    "judul": "Gubernur Khofifah dan Bupati Ipuk Hadiri Launching Penerimaan SMA Taruna Banyuwangi 2027/2028",

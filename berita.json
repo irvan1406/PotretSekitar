@@ -1,5 +1,5 @@
 {
- "terakhirUpdate": "2026-11-15T11:37:03.000Z",
+ "terakhirUpdate": "2026-11-15T12:40:26.000Z",
  "iklan": [
   {
    "id": "jasa-seserahan-dan-mahar-terbaik-di-banyuwangi",
@@ -11,6 +11,35 @@
   }
  ],
  "berita": [
+  {
+   "id": "konvoi-pesilat-simpang-4-jajag-gambiran",
+   "judul": "Konvoi Diduga Pesilat Penuhi Simpang 4 Jajag Gambiran, Lalu Lintas Sempat Tersendat",
+   "ringkasan": "Rombongan pesepeda motor yang diduga pesilat memenuhi Simpang 4 Jajag, Gambiran, Minggu (15/11/2026) sore, hingga arus lalu lintas di ruas Bangorejo-Gambiran sempat tersendat. Tujuan konvoi belum diketahui dan belum ada keterangan resmi dari kepolisian.",
+   "kategori": "Peristiwa",
+   "tanggal": "2026-11-15T00:00:00+07:00",
+   "gambar": "img-berita/konvoi-pesilat-simpang-4-jajag-gambiran.jpg",
+   "gambar_keterangan": "Bendera besar Persaudaraan Setia Hati Terate dibawa peserta konvoi di Simpang 4 Jajag, Gambiran, Minggu (15/11/2026) sore. Foto: Tangkapan layar video Lintas Banyuwangi",
+   "unggulan": false,
+   "terbit": true,
+   "isi": [
+    "BANYUWANGI - Rombongan pesepeda motor yang diduga anggota perguruan silat memenuhi Simpang 4 Jajag, Desa Jajag, Kecamatan Gambiran, Minggu (15/11/2026) sore. Puluhan pemotor berkaus hitam-merah itu berhenti dan berkumpul di tengah persimpangan hingga arus kendaraan dari berbagai arah tersendat.",
+    "Dalam rekaman video yang beredar di media sosial, rombongan terlihat membawa sebuah bendera besar berwarna hitam dan emas bertuliskan Persaudaraan Setia Hati Terate (PSHT). Sejumlah peserta berdiri di tengah jalan sambil mengibarkan bendera, sementara yang lain tetap berada di atas sepeda motornya. Lampu lalu lintas di simpang itu tampak menyala hijau, namun jalan tertutup oleh rombongan sehingga kendaraan lain hanya bisa melintas pelan di sela-selanya.",
+    "Dampaknya juga terasa di ruas Bangorejo-Gambiran. Rekaman lain dari lokasi yang sama memperlihatkan arus kendaraan di jalan tersebut sempat padat pada Minggu sore karena iring-iringan sepeda motor rombongan. Sejumlah pengendara terlihat menunggu di tepi jalan hingga rombongan bergerak meninggalkan simpang.",
+    "Aksi konvoi itu menuai keluhan dari warganet. Dalam kolom komentar unggahan video tersebut, sejumlah pengguna jalan menilai rombongan mengganggu arus lalu lintas dan berharap kegiatan semacam itu tidak menutup jalan umum. Sebagian lainnya meminta rombongan tetap tertib dan tidak memicu keributan di jalan.",
+    "Hingga berita ini diterbitkan, belum diketahui tujuan rombongan konvoi tersebut. Dalam rekaman yang beredar tidak disebutkan agenda kegiatan rombongan, dan belum ada keterangan resmi dari pihak kepolisian maupun perwakilan perguruan silat terkait konvoi di Simpang 4 Jajag itu.",
+    "Peristiwa ini menjadi pengingat agar setiap kegiatan yang melibatkan rombongan besar di jalan raya tetap memperhatikan kelancaran lalu lintas dan keselamatan pengguna jalan lain, terutama di persimpangan yang menjadi jalur utama antar-kecamatan seperti Simpang 4 Jajag."
+   ],
+   "galeri": [
+    {
+     "gambar": "img-berita/konvoi-pesilat-simpang-4-jajag-gambiran-2.jpg",
+     "keterangan": "Peserta konvoi melintas di Simpang 4 Jajag, Gambiran, Minggu (15/11/2026) sore. Foto: Tangkapan layar video Lintas Banyuwangi"
+    },
+    {
+     "gambar": "img-berita/konvoi-pesilat-simpang-4-jajag-gambiran-3.jpg",
+     "keterangan": "Rombongan pesepeda motor berkumpul di Simpang 4 Jajag hingga arus lalu lintas tersendat, Minggu (15/11/2026) sore. Foto: Tangkapan layar video Lintas Banyuwangi"
+    }
+   ]
+  },
   {
    "id": "beasiswa-afirmasi-1268-murid-banyuwangi",
    "judul": "Beasiswa Afirmasi Rp1 Juta untuk 1.268 Murid Banyuwangi, 175 Anak Putus Sekolah Ikut Dibantu",

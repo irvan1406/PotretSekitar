@@ -1,5 +1,5 @@
 {
- "terakhirUpdate": "2026-11-15T05:47:33.000Z",
+ "terakhirUpdate": "2026-11-15T07:25:02.000Z",
  "iklan": [
   {
    "id": "jasa-seserahan-dan-mahar-terbaik-di-banyuwangi",
@@ -11,6 +11,31 @@
   }
  ],
  "berita": [
+  {
+   "id": "antrean-ketapang-menyusut-5-km",
+   "judul": "Antrean Ketapang Menyusut Jadi 5 Kilometer, ASDP Kerahkan 27 Kapal",
+   "ringkasan": "Antrean kendaraan menuju Pelabuhan Ketapang menyusut menjadi sekitar 5 kilometer pada Sabtu (14/11/2026) sore, setelah sempat memanjang hingga 14 kilometer sehari sebelumnya. ASDP mengoperasikan 27 kapal untuk mengurai kepadatan di lintasan Ketapang-Gilimanuk.",
+   "kategori": "Daerah",
+   "tanggal": "2026-11-14T16:45:00+07:00",
+   "gambar": "img-berita/antrean-ketapang-menyusut-5-km-14112026.jpg",
+   "gambar_keterangan": "Truk logistik naik ke kapal feri di Pelabuhan Ketapang, Banyuwangi. Foto: Acta Indonesia",
+   "unggulan": false,
+   "terbit": true,
+   "isi": [
+    "BANYUWANGI - Antrean kendaraan menuju Pelabuhan Ketapang, Banyuwangi, akhirnya berangsur menyusut menjadi sekitar 5 kilometer pada Sabtu (14/11/2026) sore. Sehari sebelumnya, antrean di jalur penyeberangan Jawa-Bali itu sempat memanjang hingga sekitar 14 kilometer. PT ASDP Indonesia Ferry mengoperasikan 27 kapal untuk mengurai kepadatan di lintasan Ketapang-Gilimanuk.",
+    "Berdasarkan pemantauan pada Sabtu pukul 16.45 WIB, ekor antrean kendaraan terpantau berada di sekitar kawasan Patung Gandrung. Kendaraan yang mengantre didominasi kendaraan kecil dan angkutan logistik. Kepadatan di Ketapang sudah berlangsung sejak Kamis malam: ekor antrean mencapai sekitar 10 kilometer hingga Jumat (13/11/2026) sekitar pukul 06.00 WIB, sempat menyusut menjadi sekitar tujuh kilometer pada Jumat siang, lalu kembali memanjang hingga sekitar 14 kilometer sampai dekat Desa Bangsring, Kecamatan Wongsorejo, pada Jumat sore. Kemacetan itu memasuki hari kelima pada Jumat.",
+    "Gangguan penyeberangan ini berkaitan dengan surutnya air laut di Selat Bali. Pada Jumat, muka air laut surut hingga minus 110 sentimeter sehingga kapal-kapal sulit bersandar dan sebagian pengemudi harus menunggu sampai enam jam. Pada Sabtu, terdapat dua periode air laut surut: pukul 07.00 WIB dengan ketinggian minus 1,0 meter terhadap rata-rata permukaan laut (Mean Sea Level/MSL), dan pukul 18.00 WIB dengan ketinggian minus 0,1 meter MSL. Kondisi itu memengaruhi proses sandar dan ritme pelayanan kapal di dermaga tertentu.",
+    "Untuk mempercepat penguraian antrean, ASDP mengoperasikan 27 kapal di lintasan Ketapang-Gilimanuk. General Manager ASDP Cabang Ketapang Media Syahrianto menjelaskan, dari total armada itu sebanyak 26 kapal merupakan armada reguler dan satu kapal lainnya merupakan kapal perbantuan, yakni KMP Dharma Kencana IX. ASDP juga memperkuat pengendalian operasional agar layanan kapal patuh pada jadwal keberangkatan yang ditetapkan regulator, dan memprioritaskan kendaraan logistik berukuran besar untuk segera diseberangkan.",
+    "Direktur Utama ASDP Heru Widodo mengatakan perubahan kondisi alam menjadi perhatian perusahaan dalam memastikan kesiapan operasional dan keberlangsungan layanan penyeberangan, terutama pada lintasan strategis yang menghubungkan Pulau Jawa dan Bali. \"Perubahan kondisi alam merupakan faktor yang harus kami antisipasi dalam pengelolaan layanan penyeberangan,\" ujar Heru, Sabtu (14/11/2026). Menurut dia, kesiapan armada, fleksibilitas pola operasional, dan sinergi dengan seluruh pemangku kepentingan menjadi faktor penting untuk menjaga pelayanan.",
+    "Berdasarkan informasi cuaca, perairan Selat Bali berada pada kategori PD I Waspada, dengan arus bergerak ke arah selatan pada kecepatan 0,73 hingga 1,75 meter per detik atau setara 1,42 hingga 3,40 knot. Di sisi darat, ASDP bersama regulator, aparat keamanan, dan pemangku kepentingan terkait terus memperkuat pengaturan arus kendaraan menuju pelabuhan. Hingga Minggu (15/11/2026) pagi, Satuan Lalu Lintas Polresta Banyuwangi masih memantau dan mengatur arus lalu lintas di pintu masuk Pelabuhan Ketapang. ASDP menyampaikan permohonan maaf atas ketidaknyamanan yang dialami pengguna jasa dan mengimbau masyarakat tetap tertib, mengikuti arahan petugas di lapangan, serta memastikan telah memiliki tiket sebelum tiba di pelabuhan."
+   ],
+   "galeri": [
+    {
+     "gambar": "img-berita/antrean-ketapang-kmp-portlink-vii-14112026.jpg",
+     "keterangan": "Kendaraan naik ke KMP Portlink VII di Pelabuhan Ketapang, Banyuwangi. Foto: Arvanusa"
+    }
+   ]
+  },
   {
    "id": "tambang-galian-c-songgon-kembali-dikeluhkan-warga",
    "judul": "Warga Songgon Kembali Keluhkan Tambang Galian C Diduga Ilegal, Kapolresta Janji Turun Cek ke Lapangan",

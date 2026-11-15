@@ -1,5 +1,5 @@
 {
- "terakhirUpdate": "2026-11-14T20:14:59.683288.000Z",
+ "terakhirUpdate": "2026-11-15T05:35:59.000Z",
  "iklan": [
   {
    "id": "jasa-seserahan-dan-mahar-terbaik-di-banyuwangi",
@@ -11,6 +11,35 @@
   }
  ],
  "berita": [
+  {
+   "id": "mobil-jazz-terguling-adi-sucipto",
+   "judul": "Honda Jazz Merah Terguling Usai Tabrak Ayla yang Terparkir di Jalan Adi Sucipto Banyuwangi",
+   "ringkasan": "Sebuah mobil Honda Jazz merah terguling di Jalan Adi Sucipto, Banyuwangi, Sabtu (14/11/2026) malam sekitar pukul 18.25 WIB, setelah menabrak sebuah mobil Daihatsu Ayla yang sedang terparkir. Identitas pengemudi dan penyebab kecelakaan belum diketahui hingga berita ini diterbitkan.",
+   "kategori": "Peristiwa",
+   "tanggal": "2026-11-14T18:25:00+07:00",
+   "gambar": "img-berita/mobil-jazz-terguling-adi-sucipto.jpg",
+   "gambar_keterangan": "Mobil Honda Jazz merah terguling di Jalan Adi Sucipto, Banyuwangi, Sabtu (14/11/2026) malam, warga berusaha menegakkannya kembali. Foto: Tangkapan layar video BWI24Jam",
+   "unggulan": false,
+   "terbit": true,
+   "isi": [
+    "BANYUWANGI - Sebuah mobil Honda Jazz berwarna merah terguling di tengah Jalan Adi Sucipto, Banyuwangi, Sabtu (14/11/2026) malam sekitar pukul 18.25 WIB. Mobil itu terguling setelah menabrak sebuah mobil Daihatsu Ayla yang sedang terparkir di tepi jalan.",
+    "Rekaman video yang beredar di media sosial memperlihatkan mobil Jazz itu tergeletak miring di tengah jalan dengan lampu depan masih menyala. Sejumlah warga berkumpul di sekitar mobil dan berusaha menegakkannya kembali dengan tangan. Arus lalu lintas di ruas jalan itu sempat tersendat karena kendaraan dari kedua arah melintas pelan melewati lokasi kejadian.",
+    "Dalam rekaman yang sama, sebuah mobil berwarna silver juga terlihat menabrak pohon di trotoar tidak jauh dari lokasi Jazz terguling. Hingga berita ini diterbitkan, belum ada keterangan resmi yang menjelaskan kaitan antara mobil silver itu dengan tabrakan Jazz dan Ayla, maupun urutan kejadiannya.",
+    "Petugas kepolisian dari Unit Gakkum Polresta Banyuwangi terlihat berada di lokasi untuk mengatur arus lalu lintas di sekitar titik kejadian. Mobil patroli polisi tampak berhenti di tepi jalan dengan lampu rotator menyala, sementara seorang petugas berseragam mengarahkan kendaraan yang melintas.",
+    "Hingga berita ini diterbitkan, belum ada keterangan resmi mengenai identitas pengemudi Jazz maupun pemilik Ayla, kondisi korban, serta penyebab pasti kecelakaan. Penyebab mobil Jazz menabrak Ayla yang terparkir masih menunggu hasil penanganan petugas di lokasi.",
+    "Peristiwa ini menjadi pengingat bagi para pengendara agar lebih berhati-hati saat melintas di kawasan kota Banyuwangi pada malam hari, terutama di ruas jalan yang ramai dan banyak kendaraan terparkir di tepi jalan."
+   ],
+   "galeri": [
+    {
+     "gambar": "img-berita/mobil-jazz-terguling-adi-sucipto-2.jpg",
+     "keterangan": "Mobil berwarna silver yang menabrak pohon di trotoar Jalan Adi Sucipto, tidak jauh dari lokasi Jazz terguling. Foto: Tangkapan layar video BWI24Jam"
+    },
+    {
+     "gambar": "img-berita/mobil-jazz-terguling-adi-sucipto-3.jpg",
+     "keterangan": "Mobil Honda Jazz merah setelah ditegakkan kembali oleh warga, tampak penyok di bagian bodi samping. Foto: Tangkapan layar video BWI24Jam"
+    }
+   ]
+  },
   {
    "id": "ketum-ppp-mardiono-sambangi-tegaldlimo",
    "judul": "Ketum PPP Muhammad Mardiono Sambangi Kader Banyuwangi di Tegaldlimo, Konsolidasi Dikebut hingga Ranting",

@@ -1,7 +1,36 @@
 {
-  "terakhirUpdate": "2026-11-16T12:57:00+07:00",
+  "terakhirUpdate": "2026-11-16T13:38:00+07:00",
   "iklan": [],
   "berita": [
+    {
+      "id": "kebakaran-rongsokan-pancoran-rogojampi",
+      "judul": "Tempat Pemilahan Rongsokan di Pancoran Rogojampi Terbakar, Asap Hitam Membubung Tinggi",
+      "ringkasan": "Kebakaran melanda tempat pemilahan barang bekas di Dusun Pancoran, Desa Karangbendo, Kecamatan Rogojampi, Banyuwangi, Senin (16/11/2026) siang. Api membakar tumpukan rongsokan dan asap hitam tebal membubung ke langit, sementara api masih dalam upaya pemadaman.",
+      "kategori": "Peristiwa",
+      "tanggal": "2026-11-16T11:00:00+07:00",
+      "gambar": "img-berita/kebakaran-rongsokan-pancoran-rogojampi.jpg",
+      "gambar_keterangan": "Api membakar tumpukan barang bekas di tempat pemilahan rongsokan Dusun Pancoran, Desa Karangbendo, Rogojampi, Senin (16/11/2026) siang; asap hitam tebal membubung ke langit. Foto: Tangkapan layar video warga",
+      "galeri": [
+        {
+          "gambar": "img-berita/kebakaran-rongsokan-pancoran-rogojampi-2.jpg",
+          "keterangan": "Asap hitam tebal terlihat dari jalan permukiman Dusun Pancoran, Rogojampi, Senin (16/11/2026) siang; rumah warga tampak tak jauh dari lokasi kebakaran. Foto: Tangkapan layar video warga"
+        },
+        {
+          "gambar": "img-berita/kebakaran-rongsokan-pancoran-rogojampi-3.jpg",
+          "keterangan": "Warga berkumpul di sekitar tempat pemilahan rongsokan yang terbakar di Dusun Pancoran, Rogojampi, Senin (16/11/2026) siang. Foto: Tangkapan layar video warga"
+        }
+      ],
+      "unggulan": false,
+      "terbit": true,
+      "isi": [
+        "BANYUWANGI - Asap hitam tebal membubung tinggi dari tempat pemilahan barang bekas di Dusun Pancoran, Desa Karangbendo, Kecamatan Rogojampi, Kabupaten Banyuwangi, Senin (16/11/2026) siang. Tumpukan rongsokan yang didominasi plastik dan karung terbakar, dan api masih berkobar saat rekaman video kejadian itu mulai beredar di media sosial sekitar pukul 11.00 WIB.",
+        "Dalam rekaman video yang beredar, lidah api tampak menjilat tumpukan barang bekas di tengah timbunan karung dan plastik, sementara asap hitam pekat membubung ke langit dan terlihat dari kejauhan. Di sekitar lokasi, sejumlah warga berkumpul menyaksikan kebakaran, dan beberapa rumah warga tampak berada tak jauh dari titik api.",
+        "Lokasi yang terbakar merupakan tempat pemilahan barang bekas yang berada di kawasan permukiman Dusun Pancoran. Material yang menumpuk di sana, seperti plastik, karung, dan aneka barang bekas lainnya, membuat api cepat membesar dan menghasilkan asap pekat.",
+        "Hingga rekaman video itu beredar, api masih dalam upaya pemadaman. Informasi awal mengenai kebakaran ini dibagikan dengan mengacu pada Dinas Pemadam Kebakaran dan Penyelamatan (Damkarmat) Kabupaten Banyuwangi.",
+        "Hingga berita ini diterbitkan, belum ada laporan korban jiwa maupun korban luka akibat kebakaran tersebut. Penyebab munculnya api serta nilai kerugian materiil juga belum diketahui dan masih menunggu keterangan resmi dari pihak terkait.",
+        "Peristiwa ini menjadi pengingat bagi warga yang mengelola maupun tinggal di sekitar tempat penampungan barang bekas agar lebih waspada terhadap potensi kebakaran, terutama karena material seperti plastik dan kertas sangat mudah terbakar dan asapnya dapat mengganggu pernapasan warga sekitar."
+      ]
+    },
     {
       "id": "gerakan-pangan-murah-bulog-banyuwangi-2026",
       "judul": "BULOG dan Diskop Banyuwangi Gelar Gerakan Pangan Murah di CFD Taman Makam Pahlawan",

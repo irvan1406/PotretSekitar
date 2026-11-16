@@ -49,6 +49,7 @@ TEMPLATE = """<!DOCTYPE html>
 <script>location.replace("/#baca/{id_url}");</script>
 </head>
 <body>
+<h1>{judul}</h1>
 <p>Membuka berita di Potret Sekitar…</p>
 <p><a href="/#baca/{id_url}">{judul}</a></p>
 {terkait}
@@ -101,15 +102,35 @@ def buat_jsonld(b, url_share, gambar):
 
 
 def buat_terkait(b, terbaru, maks=8):
-    """Blok tautan crawlable: beranda + artikel terbaru lain."""
-    lain = [a for a in terbaru if a["id"] != b["id"]][:maks]
-    if not lain:
+    """Blok tautan crawlable: beranda + artikel tetangga kronologis + terbaru.
+
+    Tetangga (artikel sebelum/sesudah artikel ini menurut tanggal) membuat
+    seluruh arsip saling tertaut, bukan hanya 8 artikel teratas, sehingga
+    tidak ada halaman yatim dari sudut pandang perayap.
+    """
+    ids = [a["id"] for a in terbaru]
+    try:
+        pos = ids.index(b["id"])
+    except ValueError:
+        pos = -1
+    pilihan = []
+    if pos >= 0:
+        for j in (pos - 2, pos - 1, pos + 1, pos + 2):
+            if 0 <= j < len(terbaru):
+                pilihan.append(terbaru[j])
+    for a in terbaru:
+        if len(pilihan) >= maks:
+            break
+        if a["id"] != b["id"] and a not in pilihan:
+            pilihan.append(a)
+    pilihan = pilihan[:maks]
+    if not pilihan:
         return '<nav><p><a href="/">Beranda Potret Sekitar</a></p></nav>'
     item = "\n".join(
         '<li><a href="/baca/{}/">{}</a></li>'.format(
             a["id"], html.escape(a.get("judul", ""), quote=True)
         )
-        for a in lain
+        for a in pilihan
     )
     return (
         "<nav>\n"

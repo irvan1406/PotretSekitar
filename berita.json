@@ -1,5 +1,5 @@
 {
- "terakhirUpdate": "2026-11-16T01:05:46.511198Z",
+ "terakhirUpdate": "2026-11-16T02:26:42.193564Z",
  "iklan": [
   {
    "id": "jasa-seserahan-dan-mahar-terbaik-di-banyuwangi",
@@ -11,6 +11,40 @@
   }
  ],
  "berita": [
+  {
+   "id": "zmart-wangi-baznas-banyuwangi",
+   "judul": "BAZNAS Banyuwangi Luncurkan Z-Mart Wangi, 50 Warung Mustahik Disiapkan Naik Kelas",
+   "ringkasan": "BAZNAS Banyuwangi meluncurkan program Z-Mart Wangi di kawasan CFD Jalan Ahmad Yani, Minggu (15/11/2026) pagi. Sebanyak 50 mustahik pemilik warung kelontong menjadi sasaran tahap awal, dibekali modal usaha, pembenahan warung, dan pendampingan agar kelak bisa menjadi muzaki.",
+   "kategori": "Ekonomi",
+   "tanggal": "2026-11-15T00:00:00+07:00",
+   "gambar": "img-berita/zmart-wangi-baznas-banyuwangi.jpg",
+   "gambar_keterangan": "Wakil Bupati Banyuwangi Mujiono meninjau stan Z-Mart Wangi di kawasan CFD Jalan Ahmad Yani, Minggu (15/11/2026) pagi. Foto: Tangkapan layar video Instagram @banyuwangi_kab",
+   "unggulan": false,
+   "terbit": true,
+   "isi": [
+    "BANYUWANGI - Badan Amil Zakat Nasional (BAZNAS) Banyuwangi meluncurkan program pemberdayaan ekonomi bertajuk Z-Mart Wangi di kawasan Community and Food Day (CFD), Jalan Ahmad Yani, Banyuwangi, Minggu (15/11/2026) pagi. Program ini menyasar 50 mustahik atau penerima zakat pada tahap awal, khususnya pemilik warung kelontong sederhana yang selama ini terkendala modal dan pengelolaan usaha.",
+    "Peluncuran Z-Mart Wangi diresmikan langsung oleh Wakil Bupati Banyuwangi Mujiono. Dalam acara itu, Mujiono meninjau stan Z-Mart yang memajang aneka kebutuhan pokok seperti minyak goreng dan beras, lalu menyerahkan sertifikat serta Nomor Induk Berusaha (NIB) kepada para penerima manfaat. Sejumlah paket sembako untuk dhuafa juga dibagikan kepada warga yang hadir.",
+    "Ketua BAZNAS Banyuwangi Dwi Yanto menjelaskan, Z-Mart Wangi tidak membangun usaha dari nol, melainkan memperkuat warung yang sudah berjalan agar lebih modern, tertata, dan berdaya saing. Bantuan diberikan dalam bentuk permodalan, pembenahan tampilan warung, serta penyediaan perlengkapan penunjang usaha.",
+    "Pendampingan tidak berhenti pada bantuan fisik dan modal. Para penerima manfaat juga mendapatkan pelatihan pengelolaan keuangan sederhana, manajemen stok barang, peningkatan pelayanan pelanggan, hingga perencanaan pengembangan usaha. BAZNAS juga membuka akses kemitraan pasokan barang dagangan dengan harga lebih terjangkau agar keuntungan warung kecil meningkat.",
+    "Wakil Bupati Mujiono menegaskan, Pemkab Banyuwangi mendukung penuh program penguatan ekonomi tersebut. Menurutnya, masyarakat tidak cukup hanya menerima bantuan sesaat, melainkan harus mendapat kesempatan, dukungan permodalan, dan pendampingan agar mampu membangun sumber penghasilan yang stabil. Program ini sejalan dengan program pemberdayaan Pemkab, termasuk Warung Naik Kelas (Wenak) dan Kanggo Riko.",
+    "Di balik peluncuran itu ada target besar: mengubah status ekonomi masyarakat dari mustahik menjadi pengusaha mandiri, hingga suatu saat mampu menunaikan zakat sebagai muzaki. Moto yang diusung Z-Mart Wangi adalah bukan memberi ikan untuk dimakan sehari, melainkan menguatkan jala agar mandiri selamanya.",
+    "Jika berjalan konsisten, 50 warung penerima manfaat pada tahap awal diharapkan menjadi titik awal lahirnya lebih banyak pelaku usaha mandiri di Banyuwangi. Keberhasilan pemberdayaan, kata Dwi Yanto, bukan hanya diukur dari berapa banyak bantuan yang disalurkan, melainkan seberapa besar perubahan kehidupan masyarakat setelah menerima bantuan tersebut."
+   ],
+   "galeri": [
+    {
+     "gambar": "img-berita/zmart-wangi-baznas-banyuwangi-2.jpg",
+     "keterangan": "Wakil Bupati Mujiono menyampaikan sambutan di hadapan para penerima manfaat Z-Mart Wangi di CFD Jalan Ahmad Yani, Minggu (15/11/2026) pagi. Foto: Tangkapan layar video Instagram @banyuwangi_kab"
+    },
+    {
+     "gambar": "img-berita/zmart-wangi-baznas-banyuwangi-3.jpg",
+     "keterangan": "Tiga penerima manfaat memegang sertifikat dan NIB usaha mereka pada peluncuran Z-Mart Wangi, Minggu (15/11/2026). Foto: Tangkapan layar video Instagram @banyuwangi_kab"
+    },
+    {
+     "gambar": "img-berita/zmart-wangi-baznas-banyuwangi-4.jpg",
+     "keterangan": "Wakil Bupati Mujiono menyerahkan paket sembako dhuafa kepada warga pada peluncuran Z-Mart Wangi, Minggu (15/11/2026). Foto: Tangkapan layar video Instagram @banyuwangi_kab"
+    }
+   ]
+  },
   {
    "id": "kunjungan-komisi-viii-dpr-sekolah-rakyat-banyuwangi",
    "judul": "Komisi VIII DPR Kunjungi Sekolah Rakyat Banyuwangi, Dorong Kurikulum Vokasi Berbasis Ekonomi Kerakyatan",

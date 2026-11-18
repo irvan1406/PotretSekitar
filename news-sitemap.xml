@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://potretsekitar.my.id/baca/bupati-situbondo-kunjungi-banyuwangi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Potret Sekitar</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T00:00:00+07:00</news:publication_date>
+      <news:title>Bupati Situbondo Ngangsu Kaweruh ke Banyuwangi, Pelajari SPM dan Teken Kesepakatan Bersama</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://potretsekitar.my.id/baca/pohon-trembesi-tumbang-rth-maron-genteng/</loc>
     <news:news>
       <news:publication>
@@ -42,17 +53,6 @@
       </news:publication>
       <news:publication_date>2026-11-17T00:00:00+07:00</news:publication_date>
       <news:title>Garut Pelajari Strategi Branding Pariwisata Banyuwangi, Teken Kesepakatan Bersama</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/kebakaran-rongsokan-pancoran-rogojampi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T11:00:00+07:00</news:publication_date>
-      <news:title>Tempat Pemilahan Rongsokan di Pancoran Rogojampi Terbakar, Asap Hitam Membubung Tinggi</news:title>
     </news:news>
   </url>
 </urlset>

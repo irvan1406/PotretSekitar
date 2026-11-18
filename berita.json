@@ -1,7 +1,31 @@
 {
-  "terakhirUpdate": "2026-11-18T13:10:00+07:00",
+  "terakhirUpdate": "2026-11-18T14:01:17+07:00",
   "iklan": [],
   "berita": [
+    {
+      "id": "kebakaran-lahan-watu-dodol-2026",
+      "judul": "Kebakaran Lahan di Watu Dodol, Damkar Bergerak Padamkan Api",
+      "ringkasan": "Kebakaran melanda lahan kering di kawasan Watu Dodol, Banyuwangi, Rabu, 18 November 2026. Asap mengepul dari bukit di belakang bangunan, dan petugas Damkar langsung bergerak ke lokasi untuk memadamkan api.",
+      "kategori": "Peristiwa",
+      "tanggal": "2026-11-18T11:06:00+07:00",
+      "gambar": "img-berita/kebakaran-lahan-watu-dodol.jpg",
+      "gambar_keterangan": "Asap mengepul dari bukit kering di kawasan Watu Dodol, Banyuwangi, Rabu (18/11/2026). Foto: BWI TV",
+      "unggulan": false,
+      "terbit": true,
+      "galeri": [
+        {
+          "gambar": "img-berita/kebakaran-lahan-watu-dodol-damkar.jpg",
+          "keterangan": "Mobil pemadam kebakaran Damkar Banyuwangi meluncur menuju lokasi kebakaran di Watu Dodol. Foto: BWI TV"
+        }
+      ],
+      "isi": [
+        "BANYUWANGI - Asap mengepul dari bukit kering di kawasan Watu Dodol, Banyuwangi, Rabu, 18 November 2026. Kebakaran lahan itu membuat petugas pemadam kebakaran langsung bergerak ke lokasi setelah menerima laporan dari warga.",
+        "Kebakaran terpantau sekitar pukul 11.06 WIB. Dalam rekaman video yang beredar, asap putih mengepul dari semak dan pepohonan kering di lereng bukit, tepat di belakang sebuah bangunan di kawasan Watu Dodol. Sebagian vegetasi di lereng itu tampak sudah menghitam dan hangus terbakar.",
+        "Tak lama setelah laporan masuk, mobil pemadam kebakaran Dinas Pemadam Kebakaran dan Penyelamatan (Damkarmat) Banyuwangi meluncur menuju lokasi. Dalam rekaman yang diambil dari dalam kendaraan petugas, mobil damkar berwarna merah itu terlihat melaju di jalan raya menuju kawasan Watu Dodol.",
+        "Hingga kabar ini disusun, petugas masih melakukan pemadaman di lokasi. Belum ada keterangan resmi mengenai luas lahan yang terbakar maupun penyebab munculnya api. Tidak ada laporan korban jiwa dalam peristiwa ini.",
+        "Kawasan Watu Dodol berada di jalur utama Banyuwangi-Situbondo. Pada musim kemarau, semak dan dedaunan kering di kawasan perbukitan itu mudah terbakar. Warga diimbau tidak membakar sampah atau membuang puntung rokok sembarangan di lahan kering, serta segera melapor ke Damkar bila menemukan titik api."
+      ]
+    },
     {
       "id": "bupati-pandeglang-lima-sikap-tolak-relokasi-badak-jawa",
       "judul": "Bupati Pandeglang Keluarkan 5 Sikap Resmi, Tolak Relokasi Badak Jawa ke Alas Purwo",

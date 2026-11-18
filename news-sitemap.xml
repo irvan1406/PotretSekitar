@@ -12,6 +12,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://potretsekitar.my.id/baca/tpid-terbaik-jatim-banyuwangi-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Potret Sekitar</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T00:00:00+07:00</news:publication_date>
+      <news:title>Banyuwangi Sabet Dua Penghargaan TPID Terbaik Jatim Berkat Pertanian Rendah Karbon</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://potretsekitar.my.id/baca/pansus-iv-raperda-pendidikan-banyuwangi/</loc>
     <news:news>
       <news:publication>
@@ -53,94 +64,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T00:00:00+07:00</news:publication_date>
       <news:title>Bupati Pandeglang Keluarkan 5 Sikap Resmi, Tolak Relokasi Badak Jawa ke Alas Purwo</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/pnm-lepas-tukik-muara-mbaduk/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T00:00:00+07:00</news:publication_date>
-      <news:title>PNM Lepas 100 Tukik dan Tanam Ratusan Bibit di Pantai Muara Mbaduk Banyuwangi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/korlantas-cek-ketapang-nataru-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T00:00:00+07:00</news:publication_date>
-      <news:title>Korlantas Polri Cek Kesiapan Pelabuhan Ketapang Jelang Nataru, 58 Kapal Disiagakan</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/harlah-nu-101-taman-blambangan/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T00:00:00+07:00</news:publication_date>
-      <news:title>35 Ribu Kader NU Bakal Padati Taman Blambangan di Puncak Harlah ke-101, Presiden dan Wapres Diundang</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/bupati-situbondo-kunjungi-banyuwangi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T00:00:00+07:00</news:publication_date>
-      <news:title>Bupati Situbondo Ngangsu Kaweruh ke Banyuwangi, Pelajari SPM dan Teken Kesepakatan Bersama</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/pohon-trembesi-tumbang-rth-maron-genteng/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T00:00:00+07:00</news:publication_date>
-      <news:title>Pohon Trembesi Raksasa Tumbang di RTH Maron Genteng, Damkar Turun Tangan</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/klx-tabrak-alat-berat-purwoharjo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T00:00:00+07:00</news:publication_date>
-      <news:title>Dua Pemuda Luka Berat, Motor KLX Tabrak Alat Berat di Purwoharjo</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/dpr-kaji-relokasi-badak-jawa-alas-purwo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T00:00:00+07:00</news:publication_date>
-      <news:title>DPR Minta Wacana Relokasi Badak Jawa ke Alas Purwo Dikaji Mendalam Sebelum Diputuskan</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/garut-pelajari-branding-pariwisata-banyuwangi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T00:00:00+07:00</news:publication_date>
-      <news:title>Garut Pelajari Strategi Branding Pariwisata Banyuwangi, Teken Kesepakatan Bersama</news:title>
     </news:news>
   </url>
 </urlset>

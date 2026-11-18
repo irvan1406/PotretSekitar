@@ -1,7 +1,32 @@
 {
-  "terakhirUpdate": "2026-11-18T15:50:00+07:00",
+  "terakhirUpdate": "2026-11-18T17:38:00+07:00",
   "iklan": [],
   "berita": [
+    {
+      "id": "truk-kontainer-vs-tangki-semen-selogiri",
+      "judul": "Truk Kontainer dan Truk Tangki Semen Bertabrakan di Selogiri Kalipuro, Lalu Lintas Terhambat",
+      "ringkasan": "Dua truk besar bertabrakan di kawasan Selogiri, Kalipuro, Rabu siang, 18 November 2026. Kabin truk tangki semen ringsek parah dan pecahan kaca berserakan di jalan, hingga arus lalu lintas di jalur Pantura Ketapang terhambat.",
+      "kategori": "Peristiwa",
+      "tanggal": "2026-11-18T00:00:00+07:00",
+      "gambar": "img-berita/truk-kontainer-vs-tangki-semen-selogiri.jpg",
+      "gambar_keterangan": "Kabin truk tangki semen ringsek usai bertabrakan dengan truk kontainer di kawasan Selogiri, Kalipuro, Rabu (18/11/2026). Foto: tangkapan layar video warga",
+      "unggulan": false,
+      "terbit": true,
+      "galeri": [
+        {
+          "gambar": "img-berita/truk-kontainer-vs-tangki-semen-selogiri-2.jpg",
+          "keterangan": "Truk tangki semen dan truk kontainer berhenti di tengah jalan usai bertabrakan di kawasan Selogiri, Kalipuro. Foto: tangkapan layar video warga"
+        }
+      ],
+      "isi": [
+        "BANYUWANGI - Dua truk bertonase besar bertabrakan di kawasan Selogiri, Kecamatan Kalipuro, Rabu siang, 18 November 2026. Kabin truk tangki semen ringsek parah, pecahan kaca berserakan di aspal, dan arus lalu lintas di jalur Pantura Ketapang terhambat.",
+        "Tabrakan itu melibatkan sebuah truk kontainer dengan peti kemas biru bertuliskan MERATUS dan sebuah truk tangki semen berkabin oranye bernomor 020. Dalam rekaman video warga yang beredar, kabin truk tangki tampak penyok dan terjepit di antara peti kemas dan badan tangki, sementara kaca depannya pecah berserakan di jalan.",
+        "Usai benturan, kedua kendaraan berhenti di tengah jalan dan menutup sebagian badan jalan. Warga yang berada di sekitar lokasi langsung berkerumun, sebagian membantu mengatur arus kendaraan yang melintas. Antrean kendaraan dari dua arah tampak mengular di belakang lokasi kejadian.",
+        "Dalam rekaman lain yang diambil dari dalam mobil, tampak petugas berseragam mengatur lalu lintas di sekitar kedua truk yang masih berhenti di tengah jalan. Proses evakuasi kendaraan masih berlangsung saat video itu direkam.",
+        "Hingga kabar ini disusun, tidak ada laporan korban jiwa maupun luka dalam rekaman-rekaman yang beredar. Identitas para sopir dan penyebab pasti tabrakan belum diketahui, dan belum ada keterangan resmi dari pihak kepolisian.",
+        "Kawasan Selogiri berada di jalur utama menuju Pelabuhan Ketapang yang setiap hari dipadati kendaraan bertonase besar. Pengendara diimbau lebih berhati-hati dan menjaga jarak aman saat melintas di jalur tersebut, terutama pada siang hari ketika arus kendaraan berat sedang ramai."
+      ]
+    },
     {
       "id": "korlantas-cek-ketapang-nataru-2026",
       "judul": "Korlantas Polri Cek Kesiapan Pelabuhan Ketapang Jelang Nataru, 58 Kapal Disiagakan",

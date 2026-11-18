@@ -12,6 +12,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://potretsekitar.my.id/baca/pln-tambah-kapasitas-trafo-banyuwangi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Potret Sekitar</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T00:00:00+07:00</news:publication_date>
+      <news:title>Trafo di Banyuwangi Hampir Penuh, PLN Siapkan Penambahan Kapasitas 60 MVA</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://potretsekitar.my.id/baca/truk-kontainer-vs-tangki-semen-selogiri/</loc>
     <news:news>
       <news:publication>
@@ -31,6 +42,17 @@
       </news:publication>
       <news:publication_date>2026-11-18T00:00:00+07:00</news:publication_date>
       <news:title>Bupati Pandeglang Keluarkan 5 Sikap Resmi, Tolak Relokasi Badak Jawa ke Alas Purwo</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://potretsekitar.my.id/baca/pnm-lepas-tukik-muara-mbaduk/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Potret Sekitar</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T00:00:00+07:00</news:publication_date>
+      <news:title>PNM Lepas 100 Tukik dan Tanam Ratusan Bibit di Pantai Muara Mbaduk Banyuwangi</news:title>
     </news:news>
   </url>
   <url>

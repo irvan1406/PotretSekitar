@@ -1,7 +1,45 @@
 {
-  "terakhirUpdate": "2026-11-19T04:59:20+07:00",
+  "terakhirUpdate": "2026-11-19T05:55:00+07:00",
   "iklan": [],
   "berita": [
+    {
+      "id": "banjir-tegalsari-karangdoro-2026",
+      "judul": "Hujan Deras, Banjir Terjang Tegalsari, 25 Rumah dan Satu Gereja Terendam",
+      "ringkasan": "Hujan deras Rabu malam membuat Sungai Kalisuruh meluap dan banjir menerjang Kecamatan Tegalsari. Air setinggi hampir satu meter merendam 25 rumah dan satu gereja di Karangdoro, sementara rumah-rumah di Sumberagung ikut kemasukan air.",
+      "kategori": "Peristiwa",
+      "tanggal": "2026-11-18T20:00:00+07:00",
+      "gambar": "img-berita/banjir-tegalsari-karangdoro-2026.jpg",
+      "gambar_keterangan": "Seorang warga berdiri di air banjir setinggi dada di halaman rumahnya di Tegalsari, Rabu malam (18/11/2026). Foto: tangkapan layar video warga",
+      "unggulan": false,
+      "terbit": true,
+      "galeri": [
+        {
+          "gambar": "img-berita/banjir-tegalsari-karangdoro-2026-2.jpg",
+          "keterangan": "Air banjir menggenangi bagian dalam sebuah gereja di Karangdoro, Tegalsari, hingga bangku-bangku jemaat terendam. Foto: tangkapan layar video warga"
+        },
+        {
+          "gambar": "img-berita/banjir-tegalsari-karangdoro-2026-3.jpg",
+          "keterangan": "Seorang warga perempuan menerobos banjir sambil menyelamatkan barang-barangnya di Karangdoro, Tegalsari. Foto: tangkapan layar video warga"
+        },
+        {
+          "gambar": "img-berita/banjir-tegalsari-karangdoro-2026-4.jpg",
+          "keterangan": "Sepeda motor terendam air banjir di dalam rumah warga di Tegalsari. Foto: tangkapan layar video warga"
+        },
+        {
+          "gambar": "img-berita/banjir-tegalsari-karangdoro-2026-5.jpg",
+          "keterangan": "Air banjir mengalir deras di halaman rumah warga di Tegalsari usai hujan deras. Foto: tangkapan layar video warga"
+        }
+      ],
+      "isi": [
+        "BANYUWANGI - Hujan deras yang mengguyur Banyuwangi pada Rabu malam, 18 November 2026, memicu banjir yang menerjang permukiman warga di Kecamatan Tegalsari. Air dengan ketinggian hampir satu meter merendam puluhan rumah dan satu gereja, dan warga terpaksa menyelamatkan barang-barang mereka di tengah gelapnya malam.",
+        "Banjir paling parah dilaporkan terjadi di Desa Karangdoro, tepatnya di Dusun Karangdoro dan Blokagung. Dalam rekaman video warga yang beredar luas pada Rabu malam itu, air berwarna cokelat keruh telah menutupi jalan-jalan kampung dan masuk ke dalam rumah-rumah. Seorang warga pria tampak berdiri di halaman rumahnya dengan air sudah mencapai dada, sementara seorang warga perempuan terlihat menerobos banjir sambil membawa baskom berisi barang-barang yang diselamatkan dari dalam rumah.",
+        "Sebuah gereja di Karangdoro pun tak luput dari rendaman. Air banjir menggenangi bagian dalam gereja hingga bangku-bangku jemaat terendam, dan air tampak sudah mencapai dasar mimbar. Seorang warga lanjut usia terlihat duduk di beranda rumahnya yang kebanjiran, dengan air mengalir di sekitar kakinya.",
+        "Selain Karangdoro, banjir juga merendam rumah-rumah warga di Dusun Sumberagung, Kecamatan Tegalsari, setelah Sungai Kalisuruh meluap. Air luapan sungai itu masuk ke dalam rumah dan merendam lantai hingga setinggi mata kaki orang dewasa, membuat perabot dan sepeda motor yang terparkir di dalam rumah ikut terendam. Seorang warga perempuan dalam rekaman itu terdengar mengeluhkan rumahnya yang juga kebanjiran, sementara air terus mengalir deras di halaman rumahnya.",
+        "Hujan deras yang memicu banjir ini sudah diperingatkan sebelumnya. Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) menerbitkan peringatan dini hujan lebat disertai petir untuk sejumlah kecamatan di Banyuwangi pada Rabu malam itu, yang berlaku mulai pukul 18.15 hingga 21.00 WIB. Sehari sebelumnya, curah hujan tertinggi di Jawa Timur tercatat mencapai 96,4 milimeter di wilayah Srono, Banyuwangi.",
+        "Berdasarkan rekaman-rekaman warga yang beredar, banjir di Karangdoro merendam 25 rumah dan satu gereja. Hingga kabar ini disusun, belum ada laporan korban jiwa maupun keterangan resmi dari Badan Penanggulangan Bencana Daerah (BPBD) Banyuwangi mengenai jumlah pasti warga terdampak dan kondisi terkini di lokasi.",
+        "Warga diimbau tetap waspada karena BMKG memperingatkan potensi cuaca ekstrem di Jawa Timur hingga 27 November 2026, dengan hujan lebat hingga sangat lebat yang dapat disertai petir dan angin kencang. Warga yang tinggal di bantaran sungai dan daerah rawan banjir diminta segera mengamankan barang berharga dan mengungsi ke tempat yang lebih tinggi bila air kembali naik."
+      ]
+    },
     {
       "id": "tpid-terbaik-jatim-banyuwangi-2026",
       "judul": "Banyuwangi Sabet Dua Penghargaan TPID Terbaik Jatim Berkat Pertanian Rendah Karbon",

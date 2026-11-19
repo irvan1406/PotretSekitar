@@ -1,7 +1,40 @@
 {
-  "terakhirUpdate": "2026-11-19T07:57:32+07:00",
+  "terakhirUpdate": "2026-11-19T08:29:11+07:00",
   "iklan": [],
   "berita": [
+    {
+      "id": "musala-alfattah-ambruk-sumbersari-srono",
+      "judul": "Diterjang Hujan Deras, Musala Alfattah di Sumbersari Srono Ambruk",
+      "ringkasan": "Musala Alfattah di Desa Sumbersari, Kecamatan Srono, ambruk setelah diterjang hujan deras pada Rabu siang, 18 November 2026. Atap bangunan berusia sekitar 20 tahun itu runtuh dan menimpa bagian dalam musala, namun tidak ada korban jiwa dalam peristiwa tersebut.",
+      "kategori": "Peristiwa",
+      "tanggal": "2026-11-18T13:00:00+07:00",
+      "gambar": "img-berita/musala-alfattah-ambruk-sumbersari-srono.jpg",
+      "gambar_keterangan": "Reruntuhan Musala Alfattah di Desa Sumbersari, Srono, setelah atapnya ambruk diterjang hujan deras, Rabu (18/11/2026). Foto: tangkapan layar video BWI 24 JAM",
+      "unggulan": false,
+      "terbit": true,
+      "galeri": [
+        {
+          "gambar": "img-berita/musala-alfattah-ambruk-sumbersari-srono-2.jpg",
+          "keterangan": "Rangka atap yang patah dan genteng merah berserakan menutupi lantai Musala Alfattah yang ambruk. Foto: tangkapan layar video BWI 24 JAM"
+        },
+        {
+          "gambar": "img-berita/musala-alfattah-ambruk-sumbersari-srono-3.jpg",
+          "keterangan": "Pecahan keramik putih dan balok kayu berserakan di dalam musala usai atapnya runtuh. Foto: tangkapan layar video BWI 24 JAM"
+        },
+        {
+          "gambar": "img-berita/musala-alfattah-ambruk-sumbersari-srono-4.jpg",
+          "keterangan": "Seorang warga meninjau reruntuhan di dalam Musala Alfattah, Srono. Foto: tangkapan layar video BWI 24 JAM"
+        }
+      ],
+      "isi": [
+        "BANYUWANGI - Hujan deras yang mengguyur Kecamatan Srono pada Rabu siang, 18 November 2026, merobohkan Musala Alfattah di Desa Sumbersari. Atap musala yang sudah dua dekade berdiri itu ambruk hingga rata dengan lantai, menyisakan tumpukan balok kayu dan genteng merah di antara dinding-dinding yang masih berdiri.",
+        "Musala itu ambruk sekitar pukul 13.00 WIB, saat hujan deras tengah mengguyur wilayah Sumbersari. Rangka kayu penyangga atap patah hingga seluruh atap runtuh dan menimpa bagian dalam bangunan. Genteng-genteng merah berserakan di atas lantai, pecahan keramik putih berhamburan, dan balok-balok kayu menimpa perabot di dalam musala.",
+        "Dalam rekaman video yang beredar luas, dinding putih musala dengan dua jendela kayunya masih berdiri tegak, namun atapnya sudah hilang sepenuhnya. Tumpukan balok dan genteng menutupi lantai hingga ke sudut ruangan, sementara pohon pisang di belakang bangunan tampak rebah diterpa hujan.",
+        "Hingga kabar ini disusun, tidak ada laporan korban jiwa maupun luka dalam peristiwa tersebut. Warga yang datang ke lokasi terlihat meninjau reruntuhan dari dalam musala, memeriksa bagian-bagian bangunan yang masih bisa diselamatkan.",
+        "Ambruknya musala ini terjadi di tengah cuaca ekstrem yang melanda Banyuwangi. BMKG sebelumnya telah mengeluarkan peringatan dini hujan lebat disertai petir untuk sejumlah kecamatan di Banyuwangi, termasuk Srono, pada Rabu malam 18 November 2026, serta peringatan cuaca ekstrem di Jawa Timur yang berlaku hingga 27 November 2026. Hujan deras yang sama pada malam harinya juga memicu banjir yang merendam puluhan rumah di Kecamatan Tegalsari.",
+        "Dengan peringatan cuaca ekstrem yang masih berlaku hingga akhir November, warga diimbau meningkatkan kewaspadaan terhadap hujan lebat disertai angin kencang dan petir, terutama saat berada di dalam bangunan tua yang kondisinya sudah lapuk."
+      ]
+    },
     {
       "id": "kades-kenjo-sidang-perdana-pn-malang",
       "judul": "Korban Tolak Damai, Kades Kenjo Jalani Sidang Perdana di PN Malang atas Dugaan Penipuan",

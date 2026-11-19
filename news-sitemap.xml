@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://potretsekitar.my.id/baca/bakti-alam-madukara-glenmore-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Potret Sekitar</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T00:00:00+07:00</news:publication_date>
+      <news:title>Bakti Alam 2026, 8.000 Bibit Ikan Ditebar di Madu Kara Glenmore</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://potretsekitar.my.id/baca/tradisi-mantu-kucing-grajagan-2026/</loc>
     <news:news>
       <news:publication>
@@ -53,6 +64,17 @@
       </news:publication>
       <news:publication_date>2026-11-18T11:06:00+07:00</news:publication_date>
       <news:title>Kebakaran Lahan di Watu Dodol, Damkar Bergerak Padamkan Api</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://potretsekitar.my.id/baca/bansos-g2p-glagah-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Potret Sekitar</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T00:00:00+07:00</news:publication_date>
+      <news:title>Banyuwangi Jadi Percontohan Nasional, Bansos Kini Cair Langsung ke Rekening Penerima</news:title>
     </news:news>
   </url>
   <url>

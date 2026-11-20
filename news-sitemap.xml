@@ -56,6 +56,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://potretsekitar.my.id/baca/pemkab-banyuwangi-raih-good-impact-award-2026-rindu-bulan/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Potret Sekitar</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T00:00:00+07:00</news:publication_date>
+      <news:title>Lewat Program Rindu Bulan, Pemkab Banyuwangi Raih Liputan6 Good Impact Award 2026</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://potretsekitar.my.id/baca/tiga-pencuri-kabel-telkom-orang-dalam/</loc>
     <news:news>
       <news:publication>
@@ -174,17 +185,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T13:00:00+07:00</news:publication_date>
       <news:title>Diterjang Hujan Deras, Musala Alfattah di Sumbersari Srono Ambruk</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/kebakaran-lahan-watu-dodol-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T11:06:00+07:00</news:publication_date>
-      <news:title>Kebakaran Lahan di Watu Dodol, Damkar Bergerak Padamkan Api</news:title>
     </news:news>
   </url>
 </urlset>

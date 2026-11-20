@@ -23,6 +23,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://potretsekitar.my.id/baca/bunga-desa-sukonatar-srono-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Potret Sekitar</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T00:00:00+07:00</news:publication_date>
+      <news:title>Bupati Ipuk Ngantor di Desa Sukonatar, Serap Aspirasi Petani soal Irigasi dan Bantuan Alsintan</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://potretsekitar.my.id/baca/pil-koplo-tegaldlimo-gilimanuk-2026/</loc>
     <news:news>
       <news:publication>
@@ -163,17 +174,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T17:30:00+07:00</news:publication_date>
       <news:title>Bus Akas Adu Moncong dengan Truk Tractor Head di Pantura Situbondo, Tujuh Penumpang Luka</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/polisi-gerebek-tambang-galian-c-songgon/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T13:51:00+07:00</news:publication_date>
-      <news:title>Polisi Gerebek Tambang Galian C di Songgon, Dua Orang Diamankan</news:title>
     </news:news>
   </url>
 </urlset>

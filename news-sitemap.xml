@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://potretsekitar.my.id/baca/gempa-m27-barat-daya-banyuwangi-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Potret Sekitar</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T07:49:00+07:00</news:publication_date>
+      <news:title>Gempa Magnitudo 2,7 Guncang Perairan Barat Daya Banyuwangi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://potretsekitar.my.id/baca/pil-koplo-tegaldlimo-gilimanuk-2026/</loc>
     <news:news>
       <news:publication>
@@ -31,6 +42,17 @@
       </news:publication>
       <news:publication_date>2026-11-19T10:40:00+07:00</news:publication_date>
       <news:title>Dua Kebakaran Nyaris Berbarengan di Sobo dan Pondoknongko, Satu Rumah Warga Ludes</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://potretsekitar.my.id/baca/bupati-serahkan-300-sertifikat-ptsl-gladag/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Potret Sekitar</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T00:00:00+07:00</news:publication_date>
+      <news:title>Bupati Ipuk Serahkan 300 Sertifikat Tanah PTSL kepada Warga Desa Gladag</news:title>
     </news:news>
   </url>
   <url>

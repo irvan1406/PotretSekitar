@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://potretsekitar.my.id/baca/bubak-bumi-tegaldlimo-zulhas-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Potret Sekitar</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T07:50:00+07:00</news:publication_date>
+      <news:title>Ritual Bubak Bumi di Tegaldlimo Dihadiri Menko Zulhas, 2.000 Petani Ikut Doa Bersama</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://potretsekitar.my.id/baca/bantuan-pangan-beras-wringinpitu-muncar-2026/</loc>
     <news:news>
       <news:publication>
@@ -108,28 +119,6 @@
       </news:publication>
       <news:publication_date>2026-11-20T00:00:00+07:00</news:publication_date>
       <news:title>Bupati Ipuk Ngantor di Desa Sukonatar, Serap Aspirasi Petani soal Irigasi dan Bantuan Alsintan</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/pil-koplo-tegaldlimo-gilimanuk-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T16:28:00+07:00</news:publication_date>
-      <news:title>Paket Ribuan Pil Koplo dari Tegaldlimo Dicegat di Gilimanuk, Polda Bali Buru Pemiliknya</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/empat-orang-tambang-galian-c-songgon-dipulangkan/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T15:31:00+07:00</news:publication_date>
-      <news:title>Empat Orang yang Diamankan dalam Penggerebekan Tambang Galian C Songgon Dipulangkan, Penyelidikan Berlanjut</news:title>
     </news:news>
   </url>
 </urlset>

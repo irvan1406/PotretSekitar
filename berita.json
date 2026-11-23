@@ -1,7 +1,36 @@
 {
- "terakhirUpdate": "2026-11-23T20:08:00+07:00",
+ "terakhirUpdate": "2026-11-23T22:56:14+07:00",
  "iklan": [],
  "berita": [
+  {
+   "id": "kali-kampung-meluap-tiga-rumah-jambewangi-sempu-terendam-banjir",
+   "judul": "Kali Kampung Meluap, Tiga Rumah Warga Jambewangi Sempu Terendam Banjir",
+   "ringkasan": "Kali Kampung meluap setelah hujan deras dan merendam tiga rumah warga di Dusun Krajan, Desa Jambewangi, Kecamatan Sempu, Senin malam (23/11/2026). Air berwarna cokelat setinggi lutut masuk ke dalam rumah, dan Tim Reaksi Cepat BPBD Banyuwangi langsung meluncur ke lokasi.",
+   "kategori": "Peristiwa",
+   "tanggal": "2026-11-23T19:37:00+07:00",
+   "gambar": "img-berita/banjir-jambewangi-sempu-23112026.jpg",
+   "gambar_keterangan": "Air bah berwarna cokelat menerjang rumah warga di Dusun Krajan, Desa Jambewangi, Kecamatan Sempu, Senin malam (23/11/2026). Foto: Tangkapan layar video BWI 24 Jam",
+   "unggulan": false,
+   "terbit": true,
+   "galeri": [
+    {
+     "gambar": "img-berita/banjir-jambewangi-sempu-23112026-2.jpg",
+     "keterangan": "Seorang warga menahan derasnya air yang masuk melalui pintu rumah di Dusun Krajan, Desa Jambewangi, Senin malam (23/11/2026). Foto: Tangkapan layar video BWI 24 Jam"
+    },
+    {
+     "gambar": "img-berita/banjir-jambewangi-sempu-23112026-3.jpg",
+     "keterangan": "Warga menerobos genangan banjir sambil membawa senter di Dusun Krajan, Desa Jambewangi, Senin malam (23/11/2026). Foto: Tangkapan layar video BWI 24 Jam"
+    }
+   ],
+   "isi": [
+    "BANYUWANGI - Kali Kampung meluap dan merendam permukiman warga di Dusun Krajan, Desa Jambewangi, Kecamatan Sempu, Banyuwangi, Senin malam (23/11/2026). Tiga rumah warga terendam air bah berwarna cokelat yang masuk dengan deras ke dalam rumah sekitar pukul 19.37 WIB, saat warga sedang beristirahat di rumah masing-masing.",
+    "Hujan deras yang mengguyur wilayah Sempu sejak sore membuat debit Kali Kampung naik dengan cepat hingga tidak tertampung dan meluap ke permukiman. Air keruh mengalir deras menyusuri gang kampung, lalu menerobos masuk ke dalam rumah-rumah warga yang berada di dekat aliran sungai. Dalam hitungan menit, lantai rumah sudah tergenang dan perabotan mulai terendam.",
+    "Di dalam rumah, air mencapai setinggi lutut orang dewasa. Kasur, lemari, dan berbagai perabot rumah tangga terendam dan hanyut terbawa arus di dalam ruangan. Di jalan kampung, genangan bahkan mencapai sepinggang orang dewasa, membuat sepeda motor yang terparkir ikut terendam. Warga yang panik berusaha menyelamatkan barang-barang mereka ke tempat yang lebih tinggi, sementara seorang warga tampak menahan derasnya air di pintu rumahnya agar tidak semakin banyak masuk ke dalam.",
+    "Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Banyuwangi menyebut banjir terjadi akibat luapan sungai yang tersumbat. Tim Reaksi Cepat (TRC) BPBD langsung meluncur ke lokasi kejadian pada malam itu juga untuk melakukan asesmen dan membantu mitigasi. Tiga personel TRC dikerahkan menuju Kecamatan Sempu.",
+    "Peristiwa ini terjadi di tengah peringatan dini cuaca dari BMKG yang pada Senin (23/11/2026) menetapkan Jawa Timur dalam status Siaga potensi hujan lebat hingga sangat lebat. BMKG mengingatkan masyarakat, terutama yang tinggal di kawasan rawan banjir dan longsor, untuk meningkatkan kewaspadaan.",
+    "Hingga berita ini ditulis, belum ada laporan korban jiwa akibat banjir di Jambewangi. Warga diimbau tetap waspada terhadap kemungkinan hujan susulan dan segera melapor ke BPBD atau aparat desa setempat bila debit sungai kembali naik."
+   ]
+  },
   {
    "id": "asdp-siapkan-57-kapal-pelabuhan-alternatif-nataru-2026",
    "judul": "ASDP Siapkan 57 Kapal dan Dua Pelabuhan Alternatif, Puncak Arus Nataru Diprediksi 10.410 Kendaraan Sehari",

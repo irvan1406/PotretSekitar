@@ -33,26 +33,4 @@
       <news:title>Hujan Deras, Banjir Rendam Jalan di Wadung Kamidin Glenmore, Kendaraan Melambat Menerobos Genangan</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/peserta-tiban-bangorejo-meninggal-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T11:30:00+07:00</news:publication_date>
-      <news:title>Tragedi Tradisi Tiban di Bangorejo, Peserta 47 Tahun Meninggal Usai Pingsan Saat Bertarung</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/pasar-murah-kdkmp-tukangkayu-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T09:30:00+07:00</news:publication_date>
-      <news:title>Pasar Murah KDKMP Tukangkayu Diserbu Warga, Sembako Dijual Rp2.000-Rp3.000 Lebih Murah</news:title>
-    </news:news>
-  </url>
 </urlset>

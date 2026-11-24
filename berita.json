@@ -1,7 +1,32 @@
 {
- "terakhirUpdate": "2026-11-24T11:50:00+07:00",
+ "terakhirUpdate": "2026-11-24T12:52:00+07:00",
  "iklan": [],
  "berita": [
+  {
+   "id": "kebakaran-pengovenan-tembakau-yosomulyo-gambiran-2026",
+   "judul": "Diduga Korsleting Mesin Oven, Tempat Pengovenan Tembakau di Yosomulyo Gambiran Terbakar",
+   "ringkasan": "Tempat pengovenan tembakau di Desa Yosomulyo, Kecamatan Gambiran, terbakar pada Senin malam (23/11/2026) sekitar pukul 18.50 WIB. Api diduga berasal dari korsleting mesin oven, dan petugas Damkarmat Banyuwangi langsung memadamkannya.",
+   "kategori": "Peristiwa",
+   "tanggal": "2026-11-23T18:50:00+07:00",
+   "gambar": "img-berita/kebakaran-pengovenan-tembakau-yosomulyo-gambiran.jpg",
+   "gambar_keterangan": "Api membakar tempat pengovenan tembakau di Desa Yosomulyo, Kecamatan Gambiran, Senin malam (23/11/2026). Foto: Tangkapan layar video Damkarmat Banyuwangi",
+   "unggulan": false,
+   "terbit": true,
+   "galeri": [
+    {
+     "gambar": "img-berita/kebakaran-pengovenan-tembakau-yosomulyo-gambiran-damkar.jpg",
+     "keterangan": "Petugas Damkarmat Banyuwangi menyemprotkan air ke arah titik api di tempat pengovenan tembakau di Yosomulyo, Gambiran. Foto: Tangkapan layar video Damkarmat Banyuwangi"
+    }
+   ],
+   "isi": [
+    "BANYUWANGI - Tempat pengovenan tembakau di Desa Yosomulyo, Kecamatan Gambiran, Banyuwangi, terbakar pada Senin malam (23/11/2026) sekitar pukul 18.50 WIB. Api diduga berasal dari korsleting atau hubungan pendek arus listrik pada mesin oven yang digunakan untuk mengeringkan tembakau.",
+    "Kobaran api tampak melalap bangunan tempat pengovenan itu dan menerangi kawasan sekitar yang sudah gelap. Percikan api beterbangan dari bagian atap bangunan, sementara asap tebal membubung ke langit malam. Sejumlah warga berkumpul di sekitar lokasi menyaksikan upaya pemadaman.",
+    "Petugas Dinas Pemadam Kebakaran dan Penyelamatan (Damkarmat) Kabupaten Banyuwangi yang tiba di lokasi langsung berjibaku memadamkan api. Para petugas berseragam merah dengan helm pelindung mengarahkan selang air ke titik api, termasuk ke arah mesin oven yang diduga menjadi sumber kebakaran.",
+    "Setelah berjibaku beberapa saat, api berhasil dipadamkan petugas. Tidak ada keterangan resmi mengenai korban jiwa maupun taksiran kerugian akibat kebakaran ini.",
+    "Dugaan sementara, kebakaran dipicu korsleting pada mesin oven. Penyebab pasti kebakaran masih menunggu pemeriksaan lebih lanjut.",
+    "Peristiwa ini menjadi pengingat bagi pemilik usaha pengeringan tembakau dan warga untuk memeriksa instalasi listrik dan mesin oven secara berkala, terutama pada peralatan yang bekerja dengan suhu tinggi dalam waktu lama."
+   ]
+  },
   {
    "id": "supermoon-24-november-bmkg-waspada-banjir-rob-banyuwangi-muncar",
    "judul": "Supermoon 24 November, BMKG Minta Pesisir Banyuwangi dan Muncar Waspada Banjir Rob",

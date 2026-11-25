@@ -67,6 +67,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://potretsekitar.my.id/baca/simposium-kebangsaan-narkoba-ui-cordoba/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Potret Sekitar</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T10:00:00+07:00</news:publication_date>
+      <news:title>Sepuluh Kampus Banyuwangi Bersatu Lawan Narkoba dalam Simposium Kebangsaan di UI Cordoba</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://potretsekitar.my.id/baca/pengendara-scoopy-tewas-ditabrak-sigra-s-parman-2026/</loc>
     <news:news>
       <news:publication>
@@ -141,28 +152,6 @@
       </news:publication>
       <news:publication_date>2026-11-23T19:37:00+07:00</news:publication_date>
       <news:title>Kali Kampung Meluap, Tiga Rumah Warga Jambewangi Sempu Terendam Banjir</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/banyuwangi-terbaik-iii-adminduk-pemda-berprestasi-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T19:00:00+07:00</news:publication_date>
-      <news:title>Banyuwangi Raih Terbaik III Layanan Adminduk se-Jawa-Bali di Apresiasi Pemda Berprestasi 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/kebakaran-pengovenan-tembakau-yosomulyo-gambiran-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T18:50:00+07:00</news:publication_date>
-      <news:title>Diduga Korsleting Mesin Oven, Tempat Pengovenan Tembakau di Yosomulyo Gambiran Terbakar</news:title>
     </news:news>
   </url>
 </urlset>

@@ -1,7 +1,36 @@
 {
- "terakhirUpdate": "2026-11-25T07:33:01+07:00",
+ "terakhirUpdate": "2026-11-25T11:44:43+07:00",
  "iklan": [],
  "berita": [
+  {
+   "id": "pelajar-14-tahun-tewas-laka-sumbermulyo-pesanggaran",
+   "judul": "Pelajar 14 Tahun Tewas Usai Motornya Tabrak Mobil di Simpang Empat Sumbermulyo Pesanggaran",
+   "ringkasan": "Seorang pelajar berusia 14 tahun meninggal dunia setelah sepeda motor yang dikendarainya bertabrakan dengan mobil Honda di Simpang Empat Sumbermulyo, Kecamatan Pesanggaran, Selasa siang (24/11/2026). Korban sempat dievakuasi warga dari selokan berlumpur di tepi jalan sebelum kabar meninggalnya dilaporkan.",
+   "kategori": "Peristiwa",
+   "tanggal": "2026-11-25T00:00:00+07:00",
+   "gambar": "img-berita/laka-motor-mobil-sumbermulyo-pesanggaran-4.jpg",
+   "gambar_keterangan": "Warga mengevakuasi pengendara sepeda motor yang terpental ke selokan berlumpur usai tabrakan di Perempatan Sumbermulyo, Pesanggaran, Selasa siang (24/11/2026). Foto: Tangkapan layar video warga di lokasi kejadian",
+   "unggulan": false,
+   "terbit": true,
+   "galeri": [
+    {
+     "gambar": "img-berita/laka-motor-mobil-sumbermulyo-pesanggaran-2.jpg",
+     "keterangan": "Mobil Honda yang terlibat tabrakan di Perempatan Sumbermulyo, Pesanggaran, bagian depannya ringsek dan pintunya terbuka. Foto: Tangkapan layar video warga di lokasi kejadian"
+    },
+    {
+     "gambar": "img-berita/laka-motor-mobil-sumbermulyo-pesanggaran-3.jpg",
+     "keterangan": "Kap mesin mobil Honda penyok parah akibat benturan keras dengan sepeda motor di Perempatan Sumbermulyo, Pesanggaran. Foto: Tangkapan layar video warga di lokasi kejadian"
+    }
+   ],
+   "isi": [
+    "BANYUWANGI - Kabar duka datang dari Simpang Empat Sumbermulyo, Kecamatan Pesanggaran. Seorang pelajar berusia 14 tahun meninggal dunia setelah sepeda motor yang dikendarainya bertabrakan dengan mobil Honda di perempatan itu, Selasa siang (24/11/2026).",
+    "Kecelakaan terjadi sekitar pukul 11.25 WIB. Sepeda motor yang dikendarai korban melaju kencang dari arah barat dan diduga melaju dengan kecepatan tinggi sebelum bertabrakan dengan mobil Honda bernomor polisi N 1504 ACA yang melintas di perempatan.",
+    "Benturan keras membuat sepeda motor ringsek dan tergeletak di tepi jalan dekat pohon, sementara mobil Honda mengalami kerusakan parah di bagian depan, kap mesinnya penyok dan bempernya lepas. Pengendara motor terpental dari kendaraannya hingga jatuh ke selokan berlumpur di samping jalan.",
+    "Warga yang berada di sekitar lokasi segera memberikan pertolongan. Sejumlah warga turun ke selokan dan bersama-sama mengangkat pengendara motor itu keluar dari air berlumpur, sementara warga lain mengatur lalu lintas di sekitar lokasi kejadian. Saat itu kondisi pengendara motor masih belum diketahui.",
+    "Kabar meninggalnya korban kemudian dilaporkan pada Rabu (25/11/2026). Hingga kabar itu beredar, identitas lengkap korban maupun pengemudi mobil belum diungkap. Petugas kepolisian tampak melakukan olah tempat kejadian perkara di lokasi, menandai aspal dengan kapur, dan penyebab pasti kecelakaan masih didalami.",
+    "Peristiwa ini menjadi pengingat bagi pengguna jalan untuk selalu berhati-hati, terutama saat melintas di perempatan dan mengurangi kecepatan, agar kecelakaan serupa tidak terulang."
+   ]
+  },
   {
    "id": "mbah-wagirin-kebun-tanaman-hias-srono-2026",
    "judul": "Berawal dari Bibit Kecil, Mbah Wagirin Kembangkan Kebun Tanaman Hias Seluas 3.500 Meter Persegi Selama 17 Tahun",

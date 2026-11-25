@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://potretsekitar.my.id/baca/umk-banyuwangi-2027-rp3223793/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Potret Sekitar</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T00:00:00+07:00</news:publication_date>
+      <news:title>UMK Banyuwangi 2027 Naik Rp234.648 Jadi Rp3.223.793 per Bulan</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://potretsekitar.my.id/baca/sungai-kalimati-muncar-kembali-mengalir/</loc>
     <news:news>
       <news:publication>
@@ -108,61 +119,6 @@
       </news:publication>
       <news:publication_date>2026-11-24T02:30:00+07:00</news:publication_date>
       <news:title>Diduga Microsleep, Mobil Sigra Tabrak Scoopy di Jalan S. Parman, Pengendara Tewas</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/banggar-apbd-2027-transfer-pusat-dipangkas-rp86-miliar/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T00:00:00+07:00</news:publication_date>
-      <news:title>Transfer Pusat Dipangkas Rp86 Miliar, Banggar DPRD Banyuwangi Minta APBD 2027 Tetap Pro Rakyat</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/rembug-disabilitas-pantai-cacalan-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T00:00:00+07:00</news:publication_date>
-      <news:title>Gelar Rembug Disabilitas di Pantai Cacalan, Pemkab Banyuwangi Serap Aspirasi Beasiswa hingga Kesempatan Kerja</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/desa-bangsring-masuk-15-besar-desa-wisata-nusantara-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T00:00:00+07:00</news:publication_date>
-      <news:title>Masuk 15 Besar Lomba Desa Wisata Nusantara 2026, Desa Bangsring Banyuwangi Jalani Verifikasi Lapangan</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/tabrakan-motor-mobil-sumbermulyo-pesanggaran-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T00:00:00+07:00</news:publication_date>
-      <news:title>Motor Melaju Kencang Tabrak Mobil di Perempatan Sumbermulyo Pesanggaran, Pengendara Terpental ke Selokan</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/sopir-truk-tangki-pertamina-tewas-kecelakaan-pakis-banyuwangi-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T00:00:00+07:00</news:publication_date>
-      <news:title>Hendak Berangkat Kerja, Sopir Truk Tangki Pertamina Tewas Usai Motornya Bertabrakan dengan Mobil di Pakis Banyuwangi</news:title>
     </news:news>
   </url>
 </urlset>

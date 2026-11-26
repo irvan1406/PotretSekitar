@@ -12,6 +12,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://potretsekitar.my.id/baca/bnnk-musnahkan-sabu-jaringan-genteng/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Potret Sekitar</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T00:00:00+07:00</news:publication_date>
+      <news:title>BNNK Banyuwangi Musnahkan 94,07 Gram Sabu Jaringan Genteng, Dua Tersangka Terancam Hukuman Mati</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://potretsekitar.my.id/baca/banjir-rob-kampung-mandar-banyuwangi/</loc>
     <news:news>
       <news:publication>
@@ -108,17 +119,6 @@
       </news:publication>
       <news:publication_date>2026-11-24T21:53:00+07:00</news:publication_date>
       <news:title>Supermoon 24 November, BMKG Minta Pesisir Banyuwangi dan Muncar Waspada Banjir Rob</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/fgd-kdkmp-banyuwangi-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T12:15:00+07:00</news:publication_date>
-      <news:title>FGD KDKMP Banyuwangi Soroti 78 Gerai Belum Terbangun, TNI Siap Kawal Aspirasi Koperasi</news:title>
     </news:news>
   </url>
 </urlset>

@@ -1,7 +1,36 @@
 {
- "terakhirUpdate": "2026-11-26T19:55:09+07:00",
+ "terakhirUpdate": "2026-11-26T22:15:00+07:00",
  "iklan": [],
  "berita": [
+  {
+   "id": "dam-3-kedunggebang-jebol-irigasi-tiga-desa-terganggu",
+   "judul": "Dam 3 di Kedunggebang Jebol, Irigasi Tiga Desa Terganggu",
+   "ringkasan": "Dam 3 di Dusun Damtelu, Desa Kedunggebang, Kecamatan Tegaldlimo, jebol dan ambrol sehingga aliran irigasi ke tiga desa terganggu. Petani diimbau menunda membuat persemaian padi hingga 10 Desember 2026.",
+   "kategori": "Peristiwa",
+   "tanggal": "2026-11-25T00:00:00+07:00",
+   "gambar": "img-berita/dam-3-kedunggebang-jebol.jpg",
+   "gambar_keterangan": "Rapat mediasi terkait jebolnya bangunan pengairan di Dusun Damtelu (atas) dan kondisi saluran irigasi Dam 3 di Desa Kedunggebang (bawah). Foto: Selendang Sutra",
+   "unggulan": false,
+   "terbit": true,
+   "isi": [
+    "Bangunan pengairan Dam 3 di Dusun Damtelu, Desa Kedunggebang, Kecamatan Tegaldlimo, jebol dan ambrol. Kerusakan bangunan yang berperan mengendalikan aliran air, menahan laju arus, menjaga elevasi air, serta mengairi lahan pertanian warga itu terekam dalam video warga pada Selasa (25/11/2026) dan memicu kekhawatiran petani di tiga desa.",
+    "Jebolnya bangunan tersebut mengganggu saluran irigasi yang mengairi lahan warga di Desa Kedunggebang dan Desa Wringinpitu, Kecamatan Tegaldlimo, serta Desa Wringinputih, Kecamatan Muncar. Warga khawatir kerusakan itu memicu banjir sekaligus mengancam gagal panen bila tidak segera diperbaiki.",
+    "Dalam video yang beredar, dinding dam dari pasangan batu dan beton tampak runtuh, menyisakan lubang besar di bagian bawah bangunan dan tumpukan reruntuhan di saluran air. Air tidak lagi tertahan sebagaimana mestinya, sementara sebagian dinding penahan di sisi saluran retak dan miring.",
+    "Sehari sebelum video itu beredar, rapat mediasi terkait jebolnya jembatan di Dusun Damtelu digelar di Balai Desa Kedunggebang, Selasa (24/11/2026) pukul 09.30 WIB. Pertemuan dihadiri Camat Tegaldlimo Trisetia Supriyanto, Kepala Desa Kedunggebang Abdul Rahman, Korsda Pengairan Kecamatan Tegaldlimo Bambang Gunawan, Ketua BPD Desa Kedunggebang Budi Utomo, Babinsa Desa Kedunggebang Kopka Agus Kusyanto, Bhabinkamtibmas Desa Kedunggebang Aipda Iwan Basuki, Ketua HIPPA Jokotirto, serta perwakilan petani dan perwakilan sublok Desa Wringinpitu dan Desa Wringinputih.",
+    "Dalam pertemuan itu, Ketua HIPPA Desa Kedunggebang mengimbau para petani agar tidak membuat uritan atau persemaian benih padi sebelum 10 Desember 2026. Petani yang terpaksa membuat uritan disarankan menumpang sementara di area persawahan yang mudah dialiri air, agar benih tetap aman dan pembagian air berjalan tertib.",
+    "Korsda Pengairan Kecamatan Tegaldlimo Bambang Gunawan menyampaikan pihaknya terus mengkaji langkah penanganan teknis di lapangan, termasuk pemetaan kerusakan, pengaturan aliran air sementara, dan rencana perbaikan jembatan, agar tepat sasaran dan aman bagi masyarakat. Camat Tegaldlimo Trisetia Supriyanto menegaskan penanganan membutuhkan koordinasi lintas desa dan kecamatan, dan seluruh pihak sepakat memperkuat koordinasi untuk mempercepat perbaikan serta menjaga kelancaran pengairan pertanian. Sementara itu, warga berharap instansi terkait segera turun tangan, karena laporan kerusakan sudah disampaikan ke pemerintah desa dan diteruskan ke dinas terkait, namun perbaikan di lapangan disebut belum kunjung terlihat."
+   ],
+   "galeri": [
+    {
+     "gambar": "img-berita/dam-3-kedunggebang-jebol-dinding.jpg",
+     "keterangan": "Dinding Dam 3 di Dusun Damtelu yang jebol dan ambrol, menyisakan lubang besar di bawah bangunan. Foto: tangkapan layar video @updatebanyuwangi"
+    },
+    {
+     "gambar": "img-berita/dam-3-kedunggebang-jebol-saluran.jpg",
+     "keterangan": "Bangunan Dam 3 dari sisi saluran, tampak dinding penahan yang retak dan runtuh. Foto: tangkapan layar video @updatebanyuwangi"
+    }
+   ]
+  },
   {
    "id": "pelatihan-poliran-polresta-banyuwangi",
    "judul": "Lewat Program Poliran, Polresta Banyuwangi Latih 120 Warga agar Siap Kerja dan Buka Usaha",

@@ -34,6 +34,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://potretsekitar.my.id/baca/dam-3-kedunggebang-jebol-irigasi-tiga-desa-terganggu/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Potret Sekitar</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T00:00:00+07:00</news:publication_date>
+      <news:title>Dam 3 di Kedunggebang Jebol, Irigasi Tiga Desa Terganggu</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://potretsekitar.my.id/baca/tanam-pohon-ijen-sky-light/</loc>
     <news:news>
       <news:publication>
@@ -141,17 +152,6 @@
       </news:publication>
       <news:publication_date>2026-11-25T00:00:00+07:00</news:publication_date>
       <news:title>Pelajar 14 Tahun Tewas Usai Motornya Tabrak Mobil di Simpang Empat Sumbermulyo Pesanggaran</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/supermoon-24-november-bmkg-waspada-banjir-rob-banyuwangi-muncar/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T21:53:00+07:00</news:publication_date>
-      <news:title>Supermoon 24 November, BMKG Minta Pesisir Banyuwangi dan Muncar Waspada Banjir Rob</news:title>
     </news:news>
   </url>
 </urlset>

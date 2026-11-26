@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://potretsekitar.my.id/baca/banjir-rob-kampung-mandar-banyuwangi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Potret Sekitar</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T00:00:00+07:00</news:publication_date>
+      <news:title>Air Laut Meluap, Banjir Rob Genangi Kampung Mandar Banyuwangi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://potretsekitar.my.id/baca/umk-banyuwangi-2027-rp3223793/</loc>
     <news:news>
       <news:publication>
@@ -108,17 +119,6 @@
       </news:publication>
       <news:publication_date>2026-11-24T10:00:00+07:00</news:publication_date>
       <news:title>Sepuluh Kampus Banyuwangi Bersatu Lawan Narkoba dalam Simposium Kebangsaan di UI Cordoba</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/pengendara-scoopy-tewas-ditabrak-sigra-s-parman-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T02:30:00+07:00</news:publication_date>
-      <news:title>Diduga Microsleep, Mobil Sigra Tabrak Scoopy di Jalan S. Parman, Pengendara Tewas</news:title>
     </news:news>
   </url>
 </urlset>

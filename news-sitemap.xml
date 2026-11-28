@@ -23,6 +23,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://potretsekitar.my.id/baca/porkab-ii-anggar-banyuwangi-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Potret Sekitar</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T00:00:00+07:00</news:publication_date>
+      <news:title>74 Atlet dari 10 Sekolah dan Klub Berlaga di Kejuaraan Anggar Porkab II Banyuwangi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://potretsekitar.my.id/baca/scoopy-terjatuh-singojuruh-penumpang-meninggal-2026/</loc>
     <news:news>
       <news:publication>
@@ -31,61 +42,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T15:00:00+07:00</news:publication_date>
       <news:title>Scoopy Terjatuh di Jalan Tak Rata Depan Balai Desa Singojuruh, Penumpang 47 Tahun Meninggal Dunia</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/jembatan-garuda-desa-bayu-songgon/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T07:00:00+07:00</news:publication_date>
-      <news:title>Jembatan Garuda Penghubung Dua Dusun di Desa Bayu Masuki Hari Keempat, Prajurit dan Warga Gotong Royong</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/forum-satu-data-banyuwangi-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T00:00:00+07:00</news:publication_date>
-      <news:title>Perkuat Tata Kelola Data, Pemkab Banyuwangi Gelar Forum Satu Data Daerah</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/banyuwangi-hijau-79-desa/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T00:00:00+07:00</news:publication_date>
-      <news:title>Kelola Sampah dari Hulu ke Hilir, Program Banyuwangi Hijau Kini Jangkau 79 Desa di 10 Kecamatan</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/pelatihan-poliran-polresta-banyuwangi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T00:00:00+07:00</news:publication_date>
-      <news:title>Lewat Program Poliran, Polresta Banyuwangi Latih 120 Warga agar Siap Kerja dan Buka Usaha</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/kampung-rescue-tembokrejo-muncar/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T00:00:00+07:00</news:publication_date>
-      <news:title>Basarnas Bentuk Kampung Rescue di Tembokrejo Muncar, Warga Pesisir Dilatih Siaga Bencana</news:title>
     </news:news>
   </url>
 </urlset>

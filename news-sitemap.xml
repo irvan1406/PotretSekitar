@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://potretsekitar.my.id/baca/perhutani-tanam-pohon-karetan-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Potret Sekitar</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T00:00:00+07:00</news:publication_date>
+      <news:title>Tanam 5.961 Bibit Jati dan Mahoni, Perhutani Banyuwangi Selatan Rayakan Hari Menanam Pohon di Karetan</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://potretsekitar.my.id/baca/kebakaran-kandang-rumah-boyolangu-giri-2026/</loc>
     <news:news>
       <news:publication>
@@ -31,17 +42,6 @@
       </news:publication>
       <news:publication_date>2026-11-27T00:00:00+07:00</news:publication_date>
       <news:title>74 Atlet dari 10 Sekolah dan Klub Berlaga di Kejuaraan Anggar Porkab II Banyuwangi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://potretsekitar.my.id/baca/scoopy-terjatuh-singojuruh-penumpang-meninggal-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Potret Sekitar</news:name>
-        <news:language>id</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T15:00:00+07:00</news:publication_date>
-      <news:title>Scoopy Terjatuh di Jalan Tak Rata Depan Balai Desa Singojuruh, Penumpang 47 Tahun Meninggal Dunia</news:title>
     </news:news>
   </url>
 </urlset>
